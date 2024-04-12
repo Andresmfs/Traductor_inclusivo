@@ -1,0 +1,726 @@
+gender_exclusive,gender_inclusive,difficulty,origin
+El paralítico se desplazaba en silla de ruedas debido a su discapacidad física.,La persona con discapacidad física se desplazaba en silla de ruedas debido a su discapacidad.,terminologia,GPT-3.5_fs_multiplication
+Todos los participantes deben firmar el acuerdo de confidencialidad.,Cualesquiera que participen deben firmar el acuerdo de confidencialidad.,persona_generica,GPT-3.5_fewshot
+Los jugadores celebraron la victoria en el partido de fútbol.,Quienes jugaban en el equipo celebraron la victoria en el partido de fútbol.,plurales,GPT-3.5_CaDi
+"“En tanto, los nominados podrán ser elegidos
+o autoproclamados, para luego…” ","“En tanto, la gente nominada podrá ser
+elegida o autoproclamada, para luego…” ",persona_generica,guia_CL
+Las lesbianas enfrentan discriminación basada en su orientación sexual.,Las mujeres lesbianas enfrentan discriminación basada en su orientación sexual.,terminologia,GPT-3.5_fewshot
+Los enemigos se enfrentaron en una feroz batalla.,Las personas enemigas y enemigos se enfrentaron en una feroz batalla.,plurales,GPT-3.5_CaDi
+Los menores disfrutaron de la tarde en el parque.,Las personas menores disfrutaron de la tarde en el parque.,plurales,GPT-3.5_CaDi
+Todos los cuidadores,Las personas que desempeñan tareas de cuidado,colectivos,guia_TAI
+Las telefonistas manejan las llamadas telefónicas.,Las y los telefonistas manejan las llamadas telefónicas.,plurales,GPT-3.5_CaDi
+Los trabajadores del centro,La plantilla del centro,colectivos,guia_ONU
+El conductor del autobús debe tener licencia de conducir.,Cada conductor o conductora del autobús debe tener licencia de conducir.,persona_generica,GPT-3.5_fewshot
+Los redactores redactaron artículos para el periódico.,La redacción redactó artículos para el periódico.,plurales,GPT-3.5_CaDi
+realidades de los humanos,realidades humanas,otros,guia_IEM
+Los músicos están ensayando para el concierto de esta noche.,Los músicos y músicas están ensayando para el concierto de esta noche.,plural_complejo,GPT-3.5_fs_multiplication
+Los clientes compran productos en la tienda.,La clientela compra productos en la tienda.,plurales,GPT-3.5_CaDi
+Los mendigos viven en la calle.,Las personas en situación de calle viven en condiciones precarias.,terminologia,GPT-3.5_fewshot
+Los médicos brindaron atención médica de calidad a los pacientes.,El personal médico brindó atención médica de calidad a los pacientes.,plurales,GPT-3.5_CaDi
+El acusado puede elegir su abogado,Usted puede elegir su defensa,omision,guia_MX
+Los repartidores entregaron paquetes a domicilio de manera puntual.,Las personas del reparto entregaron paquetes a domicilio de manera puntual.,plurales,GPT-3.5_CaDi
+Los refugiados buscan protección en otros países debido a conflictos armados.,Las personas refugiadas buscan protección en otros países debido a conflictos armados.,terminologia,GPT-3.5_fewshot
+Los sociólogos analizaron los fenómenos sociales en la sociedad contemporánea.,Sociólogas y sociólogos analizaron los fenómenos sociales en la sociedad contemporánea.,plurales,GPT-3.5_CaDi
+Se recomienda a los estudiantes que consulten con su tutor antes de realizar cambios en su plan de estudios.,Se recomienda consultar con el tutor antes de realizar cambios en el plan de estudios.,omision,GPT-3.5_fewshot
+Los legisladores Juan Pérez y Diego García debatieron la reforma fiscal,Los legisladores Juan Pérez y Diego García debatieron la reforma fiscal,nombres_propios,GPT-3.5_fewshot
+Los que trabajan en el sector de los quioscos vendieron revistas y periódicos.,Quien trabaja en el sector de los quioscos vendió revistas y periódicos.,plurales,GPT-3.5_CaDi
+Los profesionales participarán en un taller de desarrollo profesional,Habrá un taller de desarrollo profesional para profesionales,omision,GPT-3.5_fewshot
+¿Hay alguna empleada de limpieza en el organismo?,¿Hay personal de limpieza en este sitio?,plural_complejo,guia_INAES
+Los campesinos cultivan la tierra para obtener alimentos.,El campesinado cultiva la tierra para obtener alimentos.,plurales,GPT-3.5_CaDi
+Derechos del hombre,Derechos de las personas,persona_generica,guia_TAI
+Los mexicanos celebran el Día de los Muertos,En México se celebra el Día de los Muertos.,culturas,GPT-3.5_fs_multiplication
+Los brasileños son conocidos por su pasión por el fútbol.,La población brasileña es conocida por su pasión por el fútbol.,culturas,GPT-3.5_fewshot
+Las filmaciones incluyen las opiniones de artistas del grabado y conceptos y comentarios de especialistas en historia del arte. El escritor de este texto se interesó en el pensamiento manifestado por múltiples protagonistas del medio artístico en relación con el grabado en nuestro país.,"Arguedas tuvo la iniciativa de entrevistar a distintos grabadores y personajes del mundo artístico nacional, editó las entrevistas filmadas y las incluyó como parte del material que se mostraba durante el desarrollo de sus clases. Esta actividad, Arguedas la realizó por espacio de varios años. Durante este tiempo, su material creció.",otros,guia_IEM
+Los irlandeses son famosos por su cerveza,La población irlandesa es famosa por su cerveza.,culturas,GPT-3.5_fs_multiplication
+El presidente Fernández representó al país en la cumbre internacional.,El presidente Fernández representó al país en la cumbre internacional.,nombres_propios,GPT-3.5_fewshot
+Los espectadores aplauden al final de la función teatral.,El público que asiste a la representación aplaude al final de la función teatral.,plurales,GPT-3.5_CaDi
+Las legisladoras Ana Ahmed y Wei Zhang promovieron políticas de inclusión social,Las legisladoras Ana Ahmed y Wei Zhang promovieron políticas de inclusión social,nombres_propios,GPT-3.5_fewshot
+Los reyes gobernaron con sabiduría y justicia.,La monarquía gobernó con sabiduría y justicia.,plurales,GPT-3.5_CaDi
+La presidenta Fernández promulgó leyes para la protección del medio ambiente.,La presidenta Fernández promulgó leyes para la protección del medio ambiente.,nombres_propios,GPT-3.5_fewshot
+Los voluntarios limpiaron la playa el fin de semana pasado.,Se limpió la playa el fin de semana pasado.,omision,GPT-3.5_fewshot
+Los patrocinadores contribuyeron económicamente al evento deportivo.,Las entidades patrocinadoras contribuyeron económicamente al evento deportivo.,plurales,GPT-3.5_CaDi
+Los asesores brindan consejos y orientación especializada.,La asesoría brinda consejos y orientación especializada.,plurales,GPT-3.5_CaDi
+Los estudiantes Ali Ahmed y Wei Zhang participaron en actividades extracurriculares,Los estudiantes Ali Ahmed y Wei Zhang participaron en actividades extracurriculares,nombres_propios,GPT-3.5_fewshot
+Los ancianos merecen respeto y atención en la vejez.,Las personas mayores merecen respeto y atención en la vejez.,plurales,GPT-3.5_CaDi
+Se convoca a los Coordinadores,Se convoca a la Coordinación,plural_neutro,guia_MX
+Los alumnos se esforzaron mucho para obtener buenas calificaciones este semestre.,El alumnado se esforzó mucho para obtener buenas calificaciones este semestre.,plurales,GPT-3.5_CaDi
+Llevarán a cabo su presentación distintos estudiantes del país,Llevarán a cabo su presentación estudiantes diferentes del país,parafrasis,GPT-3.5_fs_multiplication
+Los representantes del barrio,Representantes del barrio,omision,guia_MX
+La intendenta Pérez coordinó la limpieza de la ciudad.,La intendenta Pérez coordinó la limpieza de la ciudad.,nombres_propios,GPT-3.5_fewshot
+Los árbitros garantizan el fair play en los partidos.,Quienes arbitran garantizan el fair play en los partidos.,plurales,GPT-3.5_CaDi
+Harán su actuación distintos acróbatas del concurso,Harán su actuación acróbatas diferentes del concurso,parafrasis,GPT-3.5_fs_multiplication
+Los pinches prepararon deliciosos platillos en la cocina del restaurante.,Las y los pinches prepararon deliciosos platillos en la cocina del restaurante.,plurales,GPT-3.5_CaDi
+Los pianistas interpretaron hermosas sonatas en el concierto.,Las y los pianistas interpretaron hermosas sonatas en el concierto.,plurales,GPT-3.5_CaDi
+Se ha pedido a los jueces,Se ha pedido al poder judicial,plural_neutro,guia_MX
+Los plusmarquistas establecieron nuevos récords en la competición.,Las y los plusmarquistas establecieron nuevos récords en la competición.,plurales,GPT-3.5_CaDi
+Pocos son los premiados en el Melate,Una minoría es premiada en el Melate,persona_generica,guia_MX
+Las funcionarias Sofía García y Juana Martínez realizaron inspecciones en la empresa,Las funcionarias Sofía García y Juana Martínez realizaron inspecciones en la empresa,nombres_propios,GPT-3.5_fewshot
+Los docentes Fernando y Javier impartirán el temario de Educación Física.,Los docentes Fernando y Javier impartirán el temario de Educación Física.,no_cambia,neutral_es
+Los estudiantes de último año buscan empleo.,El estudiantado de último año busca empleo.,plurales,GPT-4_human
+Los directores de estudios están debatiendo sobre el currículo escolar.,La dirección de estudios está debatiendo sobre el currículo escolar.,plural_neutro,GPT-3.5_fewshot
+La música de salsa es muy popular entre los puertorriqueños,La música de salsa es muy popular entre la gente de Puerto Rico,culturas,GPT-3.5_fs_multiplication
+Mis amigos me acompañaron en mi viaje por todo el país.,Mis amistades me acompañaron en mi viaje por todo el país.,plurales,GPT-3.5_CaDi
+Los pediatras cuidaron de la salud de los niños en el hospital.,Las y los pediatras cuidaron de la salud de los niños en el hospital.,plurales,GPT-3.5_CaDi
+Los británicos son amantes del té.,La población británica es amante del té.,culturas,GPT-3.5_fewshot
+Los delincuentes fueron condenados a prisión por sus crímenes.,Las personas que cometieron los actos delictivos fueron condenados a prisión por sus crímenes.,plural_complejo,GPT-3.5_fs_multiplication
+Los trabajadores de la fábrica están en huelga por mejores condiciones laborales.,Las trabajadoras y trabajadores de la fábrica están en huelga por mejores condiciones laborales.,plural_complejo,GPT-3.5_fs_multiplication
+"¿Cómo podemos esperar que la situación empeore si los encargados , las encargadas de valorar las estimaciones apenas tiene en cuenta este aspecto?",¿Cómo podemos esperar que la situación empeore si el personal encargado de valorar las estimaciones apenas tiene en cuenta este aspecto?,dificultades_variadas,neutral_es
+Todos los interesados pueden presentar su instancia,Cualquier persona interesada puede presentar su instancia,persona_generica,guía_CCGG
+Nosotros abogamos por una universidad gratuita,Abogamos por una universidad gratuita,dificultades_variadas,neutral_es
+El policía velará por la seguridad de la comunidad.,Cada policía velará por la seguridad de la comunidad.,persona_generica,GPT-3.5_fewshot
+Los científicos han descubierto una nueva especie de planta en la selva tropical.,La comunidad científica ha descubierto una nueva especie de planta en la selva tropical.,plurales,GPT-3.5_CaDi
+Los profesores Leo y Daniel impartirán la asignatura de Conocimiento del Medio.,Los profesores Leo y Daniel impartirán la asignatura de Conocimiento del Medio.,no_cambia,neutral_es
+Los formadores Martín y Lucas impartirán la asignatura de Francés.,Los formadores Martín y Lucas impartirán la asignatura de Francés.,nombres_propios,neutral_es
+Los docentes Adolfo y Germán impartirán la asignatura de Lengua Castellana.,Los docentes Adolfo y Germán impartirán la asignatura de Lengua Castellana.,no_cambia,neutral_es
+Los cooperantes trabajan en proyectos de ayuda humanitaria.,El mundo de la cooperación involucra a personas que trabajan en proyectos de ayuda humanitaria.,plurales,GPT-3.5_CaDi
+Los cónsules representan a su país en el extranjero.,El consulado representa a su país en el extranjero.,plurales,GPT-3.5_CaDi
+Nosotros queremos promover la ciencia pública.,Queremos promover la ciencia pública.,omision,guia_CONICET
+Los votantes del D.F. tienden a,El electorado del D.F. tiende a,plural_neutro,guia_MX
+Aún no existe información suficiente de por qué ciertas personas tienen enfermedades crónicas,Aún no existe información suficiente de por qué ciertas personas tienen enfermedades crónicas,no_cambia,neutral_es
+Los contribuyentes pagan impuestos para financiar servicios públicos.,Las personas contribuyentes pagan impuestos para financiar servicios públicos.,plurales,GPT-3.5_CaDi
+Requisitos para estudiantes extranjeros,Requisitos para alumnado extranjero,dificultades_variadas,neutral_es
+"Bienvenidos a nuestro diccionario náutico , pequeño pero multilateral","Bienvenido/a , Bienvenidos/as a nuestro diccionario náutico , pequeño pero multilateral",dificultades_variadas,neutral_es
+Todos los ponentes del congreso obtendrán una carpeta con materiales,Cada ponente del congreso obtendrá una carpeta con materiales,dificultades_variadas,neutral_es
+Los legisladores debatieron sobre nuevas leyes en el parlamento.,Quienes legislan debatieron sobre nuevas leyes en el parlamento.,plurales,GPT-3.5_CaDi
+La arquitectura de los madrileños refleja su historia diversa,La arquitectura madrileña refleja su historia diversa,culturas,GPT-3.5_fewshot
+Es importante que la información sea correcta para que el alumno pueda matricularse de forma correcta,Es importante que la información sea correcta para que el alumnado pueda matricularse de forma correcta,dificultades_variadas,neutral_es
+Los docentes Leo y Daniel impartirán el temario de Ciencias de la Tierra.,Los docentes Leo y Daniel impartirán el temario de Ciencias de la Tierra.,no_cambia,neutral_es
+Mientras esté ingresado no debe tomar ninguna medicación que no le sea suministrada por los expertos,Mientras esté ingresado no debe tomar ninguna medicación que no le sea suministrada por el personal especializado,dificultades_variadas,neutral_es
+Unos diez trabajadores se presentaron voluntarios para el proyecto.,Aproximadamente diez trabajadores se presentaron voluntarios para el proyecto.,parafrasis,GPT-3.5_fewshot
+estudiantes declaran declara su conformidad con el procesamiento electrónico de sus datos personales.,estudiantes declaran declara su conformidad con el procesamiento electrónico de sus datos personales.,no_cambia,neutral_es
+Los asesores Fernando González y Javier Pérez brindaron orientación a los empleados nuevos,Los asesores Fernando González y Javier Pérez brindaron orientación a los empleados nuevos,nombres_propios,GPT-3.5_fewshot
+Los argentinos son apasionados por el fútbol,En Argentina se vive el fútbol con pasión.,culturas,GPT-3.5_fs_multiplication
+la madre de Diego es muy buena psicólogo,la madre de Diego es muy buena psicóloga,feminizar_profesiones,human_combinatory
+el día de tu boda tienes que contar con los familiares,el día de tu boda tienes que contar con la familia,dificultades_variadas,neutral_es
+Los catedráticos imparten clases magistrales en la universidad.,Las cátedras imparten clases magistrales en la universidad.,plurales,GPT-3.5_CaDi
+El que que cumpla con los requisitos,Alguien que cumpla con los requisitos,persona_generica,guía_CCGG
+los inmigrantes de la tecnología ,las generaciones mayores,otros,guia_IEM
+Se requiere un consultor de marketing para mejorar la estrategia de la empresa.,Se requiere una consultora o un consultor de marketing para mejorar la estrategia de la empresa.,plural_complejo,GPT-3.5_fewshot
+Aún no tenemos un estudio suficiente del motivo por el cual ciertas personas tienen más probabilidad de padecer el trastorno,Aún no tenemos un estudio suficiente del motivo por el cual ciertas personas tienen más probabilidad de padecer el trastorno,no_cambia,neutral_es
+Los delegados Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,Los delegados Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,nombres_propios,GPT-3.5_fewshot
+el amigo de Alejandra es un gran farmacéutico,el amigo de Alejandra es un gran farmacéutico,feminizar_profesiones,human_combinatory
+Aún no existen estudios determinantes de por qué algunas tienen más probabilidad de padecer el TAE,Aún no existen estudios determinantes de por qué ciertas personas tienen más probabilidad de padecer el TAE,dificultades_variadas,neutral_es
+Los poderdantes otorgaron poder a sus representantes legales.,Las y los poderhabientes otorgaron poder a sus representantes legales.,plurales,GPT-3.5_CaDi
+Todos los ponentes al curso contarán con una acreditación,Cada ponente al curso contará con una acreditación,dificultades_variadas,neutral_es
+Los países tercermundistas requieren ayuda internacional para su desarrollo.,Los países empobrecidos requieren ayuda internacional para su desarrollo.,terminologia,GPT-3.5_fs_multiplication
+Cada mañana  la tía de mi primo es una conductor de autobús bastante mala,Cada mañana  la tía de mi primo es una conductora de autobús bastante mala,feminizar_profesiones,human_combinatory
+Los candidatos deben presentar su currículum vitae y carta de motivación para solicitar el puesto.,Quienes presenten al puesto deben presentar su currículum vitae y carta de motivación para solicitarlo.,dificultades_variadas,GPT-3.5_fewshot
+Los asesores brindaron orientación a los empleados nuevos,La asesoría brindó orientación a los empleados nuevos,plural_neutro,GPT-3.5_fewshot
+Todos los asistentes al congreso obtendrán una acreditación,Cada asistente al congreso obtendrá una acreditación,dificultades_variadas,neutral_es
+La espiritualidad y las prácticas religiosas de los hindúes son variadas y profundamente arraigadas en su cultura,La espiritualidad y las prácticas religiosas hindúes son variadas y profundamente arraigadas en su cultura,culturas,GPT-3.5_fewshot
+Los programadores desarrollaron una nueva aplicación informática.,Las personas de programación desarrollaron una nueva aplicación informática.,plurales,GPT-3.5_CaDi
+Las formadoras Isabel y Dolores impartirán el temario de Lengua Castellana.,Las formadoras Isabel y Dolores impartirán el temario de Lengua Castellana.,no_cambia,neutral_es
+La agricultura y la ganadería de los argentinos son fundamentales para su economía,La agricultura y la ganadería argentina son fundamentales para su economía,culturas,GPT-3.5_fewshot
+Los vecinos Muhammad Khan y Wei Zhang compartieron recursos durante la emergencia,Los vecinos Muhammad Khan y Wei Zhang compartieron recursos durante la emergencia,nombres_propios,GPT-3.5_fewshot
+Los profesores Alejandro y Manuel impartirán la asignatura de Dibujo Técnico.,Los profesores Alejandro y Manuel impartirán la asignatura de Dibujo Técnico.,no_cambia,neutral_es
+Los periódicos podrán hacer difusión haciendo constar siempre la procedencia y el autor de las encuestas,Los periódicos podrán hacer difusión haciendo constar siempre la procedencia y la autoría de las encuestas,dificultades_variadas,neutral_es
+Se entrevistará a los tutores por orden alfabético.,Se entrevistará al profesorado por orden alfabético.,dificultades_variadas,neutral_es
+Los participantes deben seguir las instrucciones del instructor.,Las personas participantes deben seguir las instrucciones del instructor.,plural_complejo,GPT-3.5_fs_multiplication
+Si todos trabajamos con dedicación lograremos...,Trabajando con dedicación lograremos...,omision,guia_CHRYSALLIS
+Los periódicos podrán publicar haciendo constar siempre la procedencia y el autor de los artículos periodísticos,Los periódicos podrán publicar haciendo constar siempre la procedencia y la autoría de los artículos periodísticos,dificultades_variadas,neutral_es
+Los estudiantes Pedro Martínez y Andrés López se reunieron en el aula para la clase,Los estudiantes Pedro Martínez y Andrés López se reunieron en el aula para la clase,nombres_propios,GPT-3.5_fewshot
+La circular se dirigía a los voluntarios y explicaba sus nuevas funciones,La circular se dirigía al voluntariado y explicaba sus nuevas funciones,dificultades_variadas,neutral_es
+Juan es conductor de autobús,Juan es conductor de autobús,feminizar_profesiones,human_combinatory
+La filosofía y el pensamiento de los griegos han influido profundamente en la historia,La filosofía y el pensamiento griegos han influido profundamente en la historia,culturas,GPT-3.5_fewshot
+Los entrenadores motivaron a los jugadores antes del partido.,Los entrenadores y entrenadoras motivaron a los jugadores antes del partido.,plural_complejo,GPT-3.5_fs_multiplication
+Con gran dedicación  la hermana de mi primo Pedro es una científico bastante mala,Con gran dedicación  la hermana de mi primo Pedro es una científica bastante mala,feminizar_profesiones,human_combinatory
+No lo dudes hazte socia y forma parte de nuestro proyecto,No lo dudes asóciate y forma parte de nuestro proyecto,dificultades_variadas,neutral_es
+Los docentes Martín y Lucas impartirán la asignatura de Educación Física.,Los docentes Martín y Lucas impartirán la asignatura de Educación Física.,no_cambia,neutral_es
+Los aparejadores supervisan la construcción de edificaciones.,Aparejadoras y aparejadores supervisan la construcción de edificaciones.,plurales,GPT-3.5_CaDi
+Los inmigrantes ilegales cruzan la frontera en busca de una vida mejor.,Las personas inmigrantes en situación irregular cruzan la frontera en busca de una vida mejor.,terminologia,GPT-3.5_fs_multiplication
+Los físicos investigaron las propiedades de la materia.,Las personas dedicadas a la física investigaron las propiedades de la materia.,plurales,GPT-3.5_CaDi
+Se ofrecerá asesoramiento gratuito a los titulares de cuentas nuevas.,Se ofrecerá asesoramiento gratuito a cada titular de cuentas nuevas.,parafrasis,GPT-3.5_fs_multiplication
+"las que no tengan coche , tendrán que coger autobús","quienes no tengan coche , tendrán que coger autobús",dificultades_variadas,neutral_es
+Los cuentacuentos entretienen a los niños con sus historias.,Las y los cuentacuentos entretienen a los niños con sus historias.,plurales,GPT-3.5_CaDi
+Los brasileños celebran el Carnaval,En Brasil se celebra el Carnaval.,culturas,GPT-3.5_fs_multiplication
+El arquitecto diseñará edificios modernos y funcionales.,Cada arquitecta o arquitecto diseñará edificios modernos y funcionales.,persona_generica,GPT-3.5_fewshot
+"Sin embargo , la información exacta sobre lo que se le paga a una persona liberada sindical no debe revelarse sin autorización del interesado bajo ningún concepto","Sin embargo , la información exacta sobre lo que se le paga a una persona liberada sindical no debe revelarse sin autorización de la persona interesada bajo ningún concepto",dificultades_variadas,neutral_es
+"Esta tarea crucial , en la que participaron todos los investigadores del departamento , ha arrojado varios resultados positivos","Esta tarea crucial , en la que participó todo el personal investigador del departamento , ha arrojado varios resultados positivos",dificultades_variadas,neutral_es
+el autor de este escrito es Rosalía de Castro,la autoría de este escrito es Rosalía de Castro,dificultades_variadas,neutral_es
+En la oficina la amiga de mi padre trabajaba de dentista,En la oficina la amiga de mi padre trabajaba de dentista,feminizar_profesiones,human_combinatory
+Los bailarines se preparan para el espectáculo.,Las bailarinas y los bailarines se preparan para el espectáculo.,plurales,GPT-4_human
+los equipos de futbol funcionan únicamente como vehículo para que alguno pueda hacerse con el poder,los equipos de futbol funcionan únicamente como vehículo para que cierta persona pueda hacerse con el poder,dificultades_variadas,neutral_es
+Los cajeros atienden a los clientes en el supermercado.,El personal de caja atiende a los clientes en el supermercado.,plurales,GPT-3.5_CaDi
+los profesores tendrán mayores responsabilidades en el año próximo,el profesorado tendrá mayores responsabilidades en el año próximo,dificultades_variadas,neutral_es
+Número de vigilantes de seguridad en la CAM que pudieran ser asignados a este servicio,Número de vigilantes de seguridad en la CAM que pudieran asignarse a este servicio,dificultades_variadas,neutral_es
+Los desempleados buscan trabajo para poder sustentarse.,Las personas demandantes de empleo buscan trabajo para poder sustentarse.,plurales,GPT-3.5_CaDi
+Los vecinos organizaron una limpieza comunitaria,El vecindario organizó una limpieza comunitaria,plural_neutro,GPT-3.5_fewshot
+"Desde la primera vez que pisó una obra,  Teresa era una conductor de camión malísima","Desde la primera vez que pisó una obra,  Teresa era una conductora de camión malísima",feminizar_profesiones,human_combinatory
+Habla con tu médico para ver si necesitas que se modifique tu dosis de insulina o de los demás medicamentos que consumes de manera habitual,Habla con tu médico para ver si necesitas que se modifique tu dosis de insulina o del resto medicamentos que consumes de manera habitual,dificultades_variadas,neutral_es
+Las secretarias Carla López y Andrea Sánchez organizaron los archivos de la oficina,Las secretarias Carla López y Andrea Sánchez organizaron los archivos de la oficina,nombres_propios,GPT-3.5_fewshot
+Los predicadores difundían la palabra de Dios en la comunidad.,La predicación difundió la palabra de Dios en la comunidad.,plurales,GPT-3.5_CaDi
+Los cantantes emocionan al público con su voz.,La gente cantante emociona al público con su voz.,plurales,GPT-3.5_CaDi
+¿Quién puede ser candidato?,¿Quién se puede presentar a la candidatura?,omision,guia_CHRYSALLIS
+La filosofía antigua es estudiada por los griegos,La filosofía antigua es estudiada en Grecia,culturas,GPT-3.5_fs_multiplication
+Los científicos experimentos en el laboratorio.,El grupo de ciencia realiza experimentos en el laboratorio.,plural_complejo,GPT-3.5_fewshot
+Los depositarios son responsables de custodiar los bienes.,Quienes depositan son responsables de custodiar los bienes.,plurales,GPT-3.5_CaDi
+Los alumnos estudian para obtener buenas calificaciones.,El alumnado estudia para obtener buenas calificaciones.,plurales,GPT-3.5_CaDi
+Los peluqueros recomiendan un corte de pelo corto para el verano.,Los peluqueros y peluqueras recomiendan un corte de pelo corto para el verano.,plural_complejo,GPT-3.5_fs_multiplication
+El paralítico tenía dificultades para acceder a lugares públicos sin rampas.,La persona con discapacidad física tenía dificultades para acceder a lugares públicos sin rampas.,terminologia,GPT-3.5_fewshot
+Los representantes sindicales negociaron mejores condiciones laborales.,La representación sindical negoció mejores condiciones laborales.,plural_neutro,GPT-3.5_fs_multiplication
+Los socorristas de la playa rescatarán a los bañistas en peligro.,Socorristas de la playa rescatarán a los bañistas en peligro.,omision,GPT-3.5_fewshot
+El clima mediterráneo de los valencianos favorece la agricultura,El clima mediterráneo valenciano favorece la agricultura,culturas,GPT-3.5_fewshot
+Los candidatos compiten por el puesto político.,Las personas candidatas compiten por el puesto político.,plurales,GPT-3.5_CaDi
+Los emprendedores están creando sus propias empresas.,Las personas emprendedoras están creando sus propias empresas.,plurales,GPT-3.5_CaDi
+"Por una orden , la dirección del Departamento Central de Asuntos Internos advirtió al jefe de la brigada criminal de la policía de la oficina de asuntos internos del distrito de Medeu sobre lo inapropiado de su conducta y se cesó al director de la oficina de asuntos internos del distrito de Medeu.","Por una orden , la dirección del Departamento Central de Asuntos Internos advirtió al jefe de la brigada criminal de la policía de la oficina de asuntos internos del distrito de Medeu sobre lo inapropiado de su conducta y se cesó al director de la oficina de asuntos internos del distrito de Medeu.",no_cambia,neutral_es
+los abajo firmantes muestran su conformidad con el contrato,quienes firman muestran su conformidad con el contrato,dificultades_variadas,neutral_es
+"Previamente , los aspirantes deberán comunicar inmediatamente a la Comisión cualquier modificación sustancial de la ciudad.","Previamente , quienes aspiren deberán comunicar inmediatamente a la Comisión cualquier modificación sustancial de la ciudad.",dificultades_variadas,neutral_es
+"Sin embargo , la información exacta sobre lo que se le paga a una persona representante individual no debe revelarse sin autorización del interesado bajo ningún concepto","Sin embargo , la información exacta sobre lo que se le paga a una persona representante individual no debe revelarse sin autorización de la persona interesada bajo ningún concepto",dificultades_variadas,neutral_es
+el servicio doméstico se encarga de recoger la cocina,el servicio doméstico se encarga de recoger la cocina,no_cambia,neutral_es
+Los profesionales de recursos humanos impartirán un taller sobre liderazgo,Habrá un taller sobre liderazgo impartido por profesionales de recursos humanos,omision,GPT-3.5_fewshot
+Los minifundistas cultivaron pequeñas parcelas de tierra.,Las y los minifundistas cultivaron pequeñas parcelas de tierra.,plurales,GPT-3.5_CaDi
+Las páginas web podrán reenviar la información haciendo constar siempre la procedencia y el autor de los artículos periodísticos,Las páginas web podrán reenviar la información haciendo constar siempre la procedencia y la autoría de los artículos periodísticos,dificultades_variadas,neutral_es
+La ayuda internacional se dirige a los países del tercer mundo para combatir la pobreza.,La ayuda internacional se dirige a los países empobrecidos para combatir la pobreza.,terminologia,GPT-3.5_fewshot
+Los interesados mostraron interés en participar en el proyecto.,Las personas interesadas mostraron interés en participar en el proyecto.,plurales,GPT-3.5_CaDi
+Los funcionarios Li Wang y Miguel Torres representaron al gobierno en la reunión,Los funcionarios Li Wang y Miguel Torres representaron al gobierno en la reunión,nombres_propios,GPT-3.5_fewshot
+El número de parados argentinos,El indice de paro en argentina,dificultades_variadas,neutral_es
+Los comisarios de la policía garantizaron la seguridad durante las protestas frente al parlamento.,El comisariado de la policía garantizó la seguridad durante las protestas frente al parlamento.,plurales,GPT-3.5_fewshot
+Los policías patrullarán las calles durante la noche.,Policías patrullarán las calles durante la noche.,omision,GPT-3.5_fewshot
+El hombre camina erguido gracias a la evolución del hombre.,El ser humano camina erguido gracias a la evolución humana.,plurales,GPT-3.5_fewshot
+Los docentes Fernando y Javier impartirán el temario de Dibujo Técnico.,Los docentes Fernando y Javier impartirán el temario de Dibujo Técnico.,no_cambia,neutral_es
+Las formadoras María y Carmen impartirán el temario de Educación Física.,Las formadoras María y Carmen impartirán el temario de Educación Física.,no_cambia,neutral_es
+Cuando el alumno solicite la devolución de la matrícula se tomarán medidas,Cuando se solicite la devolución de la matrícula se tomarán medidas,dificultades_variadas,neutral_es
+Los responsables de área coordinaron la agenda del comité de educación.,El grupo responsable de área coordinó la agenda del comité de educación.,plurales,GPT-3.5_fewshot
+Todos los ponentes al viaje obtendrán una carpeta con materiales,Cada ponente al viaje obtendrá una carpeta con materiales,dificultades_variadas,neutral_es
+"Esta importante tarea , en la que participaron todos los investigadores de la Comisión , ha arrojado varios resultados alarmantes","Esta importante tarea , en la que participó todo el personal investigador de la Comisión , ha arrojado varios resultados alarmantes",dificultades_variadas,neutral_es
+Los escritores famosos lanzaron sus nuevos libros.,Las escritoras y escritores famosos lanzaron sus nuevos libros.,plurales,GPT-3.5_fs_multiplication
+Los participantes deben seguir las instrucciones del coordinador durante el taller.,Quienes deseen participar deben seguir las instrucciones del coordinador durante el taller.,dificultades_variadas,GPT-3.5_fewshot
+La aplicación y seguimiento de estos principios se basan en el compromiso activo de los directores,La aplicación y seguimiento de estos principios se basan en el compromiso activo de la dirección,dificultades_variadas,neutral_es
+Lo que para muchos quedaba claro es que Obasanjo había recibido un apoyo electoral importante del norte musulmán y necesitaba ser cuidadoso para conservar la lealtad de los electores empadronados en la ciudad de Ibogun-Olaogun,"Lo que para muchos quedaba claro es que Obasanjo había recibido un apoyo electoral importante del norte musulmán y necesitaba ser cuidadoso para conservar la lealtad de los electores con empadronamiento , con padrón en la ciudad de Ibogun-Olaogun",dificultades_variadas,neutral_es
+Los hermafroditas son personas con características sexuales ambiguas.,Las personas intersexuales pueden nacer con características sexuales ambiguas,terminologia,GPT-3.5_fewshot
+Unos dos mil asistentes,Aproximadamente dos mil asistentes,persona_generica,guía_CCGG
+La normativa se dirige a los voluntarios y les explicaba el nuevo procedimiento de admisión de miembros,La normativa se dirige al voluntariado y les explicaba el nuevo procedimiento de admisión de miembros,dificultades_variadas,neutral_es
+Los egipcios tienen una rica historia cultural milenaria.,La población egipcia tiene una rica historia cultural milenaria.,culturas,GPT-3.5_fewshot
+Los esposos acompañaron a los participantes de la conferencia al almuerzo.,Las personas que participaron de la conferencia y sus parejas disfrutaron de la cena.,plural_neutro,GPT-3.5_fs_multiplication
+"Los funcionarios , el poder judicial y las instituciones encargadas de la seguridad velarán por el cumplimiento de la legislación","El funcionariado , el poder judicial y las instituciones encargadas de la seguridad velarán por el cumplimiento de la legislación",dificultades_variadas,neutral_es
+Haz clic en el botón Aceptar para mantenerte conectado,Haz clic en el botón Aceptar para mantener la conexión,persona_generica,GPT-3.5_fewshot
+"si mandas un mensaje a alguien, este puede verlo","si mandas un mensaje a alguien, puede verlo ",persona_generica,human
+Los taumaturgos asombraron al público con sus trucos de magia.,La taumaturgia asombró al público con sus trucos de magia.,plurales,GPT-3.5_CaDi
+la mujer de Simón era una piloto muy buena y disfruta haciendo manualidades y artesanías.,la mujer de Simón era una piloto muy buena y disfruta haciendo manualidades y artesanías.,feminizar_profesiones,human_combinatory
+La moda y el diseño de los italianos son reconocidos por su elegancia y estilo,La moda y el diseño italianos son reconocidos por su elegancia y estilo,culturas,GPT-3.5_fewshot
+Aún no existe una compresión cabal de por qué algunos tienen más probabilidad de padecer el TAE,Aún no existe una compresión cabal de por qué ciertas personas tienen más probabilidad de padecer el TAE,dificultades_variadas,neutral_es
+Los mendigos piden limosna en las esquinas de la calle.,Las personas que piden limosna se encuentran en las esquinas de la calle.,terminologia,GPT-3.5_fs_multiplication
+La presidenta Macri supervisó la implementación de reformas.,La presidenta Macri supervisó la implementación de reformas.,nombres_propios,GPT-3.5_fewshot
+Los formadores Adolfo y Germán impartirán la asignatura de Ciencias de la Tierra.,Los formadores Adolfo y Germán impartirán la asignatura de Ciencias de la Tierra.,no_cambia,neutral_es
+El número de profesores admitidos ha excedido los números anteriores,El número de profesorado admitido ha excedido los números anteriores,dificultades_variadas,neutral_es
+el día de tu boda tienes que contar con tu familia,el día de tu boda tienes que contar con tu familia,no_cambia,neutral_es
+Los portavoces expresaron la postura oficial del partido político.,La portavocía expresó la postura oficial del partido político.,plurales,GPT-3.5_CaDi
+Los alumnos participaron en el concurso de arte con entusiasmo.,Alumnas y alumnos participaron en el concurso de arte con entusiasmo.,plurales,GPT-3.5_CaDi
+Muchos dudan si votarán o no,Muchas personas dudan si votarán o no,persona_generica,guia_MX
+Los artistas pintaron un mural en la plaza principal.,Se pintó un mural en la plaza principal.,omision,GPT-3.5_fewshot
+Los promotores organizaron un concierto benéfico para recaudar fondos.,Las personas promotoras organizaron un concierto benéfico para recaudar fondos.,plurales,GPT-3.5_CaDi
+El demandante podrá ser declarado victorioso si se demuestra su reclamación.,La persona demandante podrá ser declarada victoriosa si se demuestra su reclamación.,parafrasis,GPT-3.5_fewshot
+La enferma crónica necesita más cuidados.,La persona enferma crónica necesita más cuidados.,dificultades_variadas,neutral_es
+Los gitanos preservan su cultura y tradiciones a lo largo de generaciones.,El pueblo gitano preserva su cultura y tradiciones a lo largo de generaciones.,terminologia,GPT-3.5_fewshot
+Se informa a los usuarios que la contraseña debe tener al menos ocho caracteres.,Se informa que la contraseña debe tener al menos ocho caracteres.,omision,GPT-3.5_fewshot
+El tiempo que esté aquí no debe tomar vitaminas que no le sean suministradas por los especialistas de nuestro centro,El tiempo que esté aquí no debe tomar vitaminas que no le sea suministrada por el personal experto de nuestro centro,dificultades_variadas,neutral_es
+Los homosexuales luchan por la igualdad de derechos.,Las personas homosexuales luchan por la igualdad de derechos.,terminologia,GPT-3.5_fewshot
+Habla con tu médico para averiguar si necesitas que se modifique tu dosis de paracetamol o de los demás medicamentos que tienes prescritos,Habla con tu médico para averiguar si necesitas que se modifique tu dosis de paracetamol o del resto medicamentos que tienes prescritos,dificultades_variadas,neutral_es
+Asistieron unos quinientos participantes,Asistieron aproximadamente quinientos participantes,dificultades_variadas,neutral_es
+Los prisioneros cumplen condena en centros penitenciarios.,Las personas que están presas cumplen condena en centros penitenciarios.,terminologia,GPT-3.5_fs_multiplication
+Habla con tu médico de cabecera para ver si necesitas que se cambie tu dosis de metadona o de los demás medicamentos que tomas,Habla con tu médico de cabecera para ver si necesitas que se cambie tu dosis de metadona o del resto medicamentos que tomas,dificultades_variadas,neutral_es
+A los visitantes se les proporcionará un mapa del parque.,Se les ofrecerá a las visitas un recorrido guiado por el museo.,plural_complejo,GPT-3.5_fs_multiplication
+Se implementó un plan de salud por los ministros.,Se implementó un plan de salud por parte de los ministerios.,plural_neutro,GPT-3.5_fs_multiplication
+La plataforma virtual favorece la interacción entre las formadoras y los alumnos,La plataforma virtual favorece la interacción entre el profesorado y el alumnado,dificultades_variadas,neutral_es
+Los representantes de los trabajadores están negociando un aumento salarial con la dirección.,El grupo de representantes de la plantilla está negociando un aumento salarial con la dirección.,plural_complejo,GPT-3.5_fs_multiplication
+Dichos voluntarios participarán en labores de limpieza.,Tales voluntarios participarán en labores de limpieza.,persona_generica,GPT-3.5_fewshot
+Aún no existe una compresión cabal de por qué algunos tienen intolerancias alimenticias,Aún no existe una compresión cabal de por qué ciertas personas tienen intolerancias alimenticias,dificultades_variadas,neutral_es
+Los escritores escriben novelas,Los y las escritoras escriben novelas,plural_complejo,GPT-3.5_fewshot
+Los asesores están capacitando a nuevos empleados en habilidades de comunicación.,El consejo asesor está capacitando a nuevos empleados en habilidades de comunicación.,plural_neutro,GPT-3.5_fewshot
+El gobernador gestionó recursos para infraestructura,El gobierno gestionó recursos para infraestructura,plural_neutro,GPT-3.5_fewshot
+Deberán participar los albañiles que hayan presentado la solicitud,Deberá participar cualquier albañil que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Los transportistas aseguraron la entrega de la mercancía a tiempo.,Quienes realizan transportes aseguraron la entrega de la mercancía a tiempo.,plurales,GPT-3.5_CaDi
+¿ alguna quiere pasar a la pizarra?,¿ quién quiere pasar a la pizarra?,dificultades_variadas,neutral_es
+Los científicos están investigando una cura para esta enfermedad.,El equipo de investigación está investigando una cura para esta enfermedad.,plural_complejo,GPT-3.5_fs_multiplication
+La ministra lideró la reforma educativa con determinación.,El ministerio lideró la reforma educativa con determinación.,plural_neutro,GPT-3.5_fewshot
+No lo dudes hazte socia y colabora con nuestra asociación,No lo dudes asóciate y colabora con nuestra asociación,dificultades_variadas,neutral_es
+"Con habilidades excepcionales,  el tío de Eva era un fantástico economista","Con habilidades excepcionales,  el tío de Eva era un fantástico economista",feminizar_profesiones,human_combinatory
+Los administradores gestionan eficientemente los recursos de la empresa.,La administración gestiona eficientemente los recursos de la empresa.,plurales,GPT-3.5_CaDi
+Los representantes de los trabajadores se reunirán mañana.,El grupo de representantes de la plantilla se reunirá mañana.,plural_complejo,GPT-3.5_fs_multiplication
+Está dirigido a los alumnos de último semestre,Está dirigido a estudiantes de último semestre,dificultades_variadas,neutral_es
+"Esta importante tarea , en la que participaron todos los investigadores de la Comisión , ha arrojado varios resultados contradictorios","Esta importante tarea , en la que participó todo el personal investigador de la Comisión , ha arrojado varios resultados contradictorios",dificultades_variadas,neutral_es
+Los versificadores expresaron sus emociones a través de la poesía.,Quienes versifican expresaron sus emociones a través de la poesía.,plurales,GPT-3.5_CaDi
+Las profesoras Valeria y Manuela impartirán la asignatura de Lengua Castellana.,Las profesoras Valeria y Manuela impartirán la asignatura de Lengua Castellana.,no_cambia,neutral_es
+Los legisladores debatieron la reforma fiscal,La legislación debatió la reforma fiscal,plural_neutro,GPT-3.5_fewshot
+Los facultativos están brindando atención médica de calidad.,El personal facultativo está brindando atención médica de calidad.,plurales,GPT-3.5_CaDi
+mi novia era una soldado fantástica,mi novia era una soldado fantástica,feminizar_profesiones,human_combinatory
+Las directoras Mónica Khan y Wei Zhang establecieron las políticas de la institución,Las directoras Mónica Khan y Wei Zhang establecieron las políticas de la institución,nombres_propios,GPT-3.5_fewshot
+Las secretarias organizan la agenda diaria.,El personal de secretaría organiza la agenda diaria.,plurales,GPT-3.5_CaDi
+Los cómicos son expertos en el arte de la comedia.,Artistas de la comedia son expertas en el arte de la comedia.,plurales,GPT-3.5_CaDi
+"Según han pronosticado muchos expertos, la próxima década será crucial para abordar el cambio climático.","Según han pronosticado gran cantidad de especialistas, la próxima década será crucial para abordar el cambio climático.",parafrasis,GPT-3.5_fewshot
+Los profesores Hugo y Mateo impartirán el temario de Lengua Castellana.,Los profesores Hugo y Mateo impartirán el temario de Lengua Castellana.,no_cambia,neutral_es
+Los colaboradores trabajaron juntos para alcanzar los objetivos del proyecto.,Las colaboraciones trabajaron juntas para alcanzar los objetivos del proyecto.,plural_neutro,GPT-3.5_fewshot
+los firmantes acuerdan respetar las condiciones del contrato,quienes firman acuerdan respetar las condiciones del contrato,dificultades_variadas,neutral_es
+Las que demuestren habilidades de comunicación serán asignadas al equipo de ventas.,Quienes demuestren habilidades de comunicación serán asignados al equipo de ventas.,persona_generica,GPT-3.5_fewshot
+Estos ordenadores permitirán que los administrativos trabajen con más rapidez,Estos ordenadores permitirán que el personal administrativo trabaje con más rapidez,dificultades_variadas,neutral_es
+Los interesados en participar,Las personas interesadas en participar,persona_generica,guia_MX
+La normativa se dirigía a los voluntarios y les explicaba sus nuevas responsabilidades,La normativa se dirigía al voluntariado y les explicaba sus nuevas responsabilidades,dificultades_variadas,neutral_es
+El que demuestre comprensión del tema será seleccionado para liderar el equipo.,Quien demuestre comprensión del tema será seleccionado para liderar el equipo.,persona_generica,GPT-3.5_fewshot
+Los intermediarios de la negociación se ocuparán también de saber si la casa tiene todas sus cuentas al día,Las personas intermediarias de la negociación se ocuparán también de saber si la casa tiene todas sus cuentas al día,dificultades_variadas,neutral_es
+Los montañeros disfrutaron de las vistas panorámicas desde la cima.,Quienes practican montañismo disfrutaron de las vistas panorámicas desde la cima.,plurales,GPT-3.5_CaDi
+Los teloneros abrieron el concierto con una actuación en vivo.,Artistas teloneros abrieron el concierto con una actuación en vivo.,plurales,GPT-3.5_CaDi
+Los requisitos para los estudiantes se han modificado en el último mes,Los requisitos para el alumnado se han modificado en el último mes,dificultades_variadas,neutral_es
+La música y las danzas de las africanas son muy diversas y llenas de ritmo,La música y las danzas africanas son muy diversas y llenas de ritmo,culturas,GPT-3.5_fewshot
+alguno es es responsable del éxito del equipo.,cierta persona es la responsable del éxito del equipo.,dificultades_variadas,neutral_es
+También requiere que las políticas se formulen con el colaborador de los líderes indígenas para obtener resultados duraderos en el tiempo,También requiere que las políticas se formulen en colaboración con los líderes indígenas para obtener resultados duraderos en el tiempo,dificultades_variadas,neutral_es
+Cada asistente al curso contará con un diploma,Cada asistente al curso contará con un diploma,no_cambia,neutral_es
+"Antes de proceder con la votación, debemos asegurarnos de que todos los candidatos cumplan con los requisitos establecidos y que ninguno esté incluido en la lista de exclusiones.","Antes de proceder con la votación, debemos asegurarnos de que todas las candidaturas cumplan con los requisitos establecidos y que ninguna figure en la lista de exclusiones.",persona_generica,GPT-3.5_fewshot
+Cada uno de los asistentes podrá solicitar el material requerido,Cada asistente podrá solicitar el material requerido,dificultades_variadas,neutral_es
+"Para garantizar la imparcialidad del proceso de selección, cualquier candidato con conflictos de interés no podrá ser declarado apto para el puesto.","Para garantizar la imparcialidad del proceso de selección, cualquier candidatura con conflictos de interés no podrá aceptarse para el puesto.",persona_generica,GPT-3.5_fewshot
+Lidia era una fantástica vendedor,Lidia era una fantástica vendedora,feminizar_profesiones,human_combinatory
+Los financiadores respaldaron el proyecto con una gran inversión.,Las entidades financiadoras respaldaron el proyecto con una gran inversión.,plurales,GPT-3.5_CaDi
+Alejandro es periodista,Alejandro es periodista,feminizar_profesiones,human_combinatory
+Todos tenemos nuestros derechos,Los humanos tenemos nuestros derechos,dificultades_variadas,neutral_es
+personas que sufren Síndrome de Down,personas que tienen Síndrome de Down,terminologia,guia_CHRYSALLIS
+Los inversores apostaron por el futuro de la empresa.,La inversión apostó por el futuro de la empresa.,plurales,GPT-3.5_CaDi
+Alguien quiere salir a la pizarra,Alguien quiere salir a la pizarra,no_cambia,neutral_es
+"Si el encargado realiza la reclamación , se devolverá el dinero en un corto plazo","Si se realiza la reclamación , se devolverá el dinero en un corto plazo",dificultades_variadas,neutral_es
+el primo de Manuel era un recepcionista fantástico y se dedica a la jardinería y cultiva su propio huerto.,el primo de Manuel era un recepcionista fantástico y se dedica a la jardinería y cultiva su propio huerto.,feminizar_profesiones,human_combinatory
+Se invita a los residentes a participar en la limpieza comunitaria.,Se invita a participar en la limpieza comunitaria.,omision,GPT-3.5_fewshot
+Durante años  la novia de Luis es una recepcionista malísima,Durante años  la novia de Luis es una recepcionista malísima,feminizar_profesiones,human_combinatory
+Se incluirán en el expediente académico del estudiante los créditos correspondientes a materias superadas en otros estudios universitarios oficiales no terminados,Se incluirán en el expediente académico los créditos correspondientes a materias superadas en otros estudios universitarios oficiales no terminados,dificultades_variadas,neutral_es
+Todos los ponentes al viaje obtendrán una acreditación,Cada ponente al viaje obtendrá una acreditación,dificultades_variadas,neutral_es
+Los expertos dicen que el cambio climático está aquí,Las personas expertas dicen que el cambio climático está aquí,dificultades_variadas,neutral_es
+Los hombres de negocios,Las mujeres y hombres de negocios,plural_complejo,guia_ONU
+Los estudiantes organizaron una campaña de concientización sobre el reciclaje.,Se organizó una campaña de concientización sobre el reciclaje.,omision,GPT-3.5_fewshot
+Los meseros atendieron amablemente a los comensales en el restaurante.,El servicio de mesas atendió amablemente a los comensales en el restaurante.,plurales,GPT-3.5_CaDi
+Los radicales promovieron cambios sociales a través de protestas pacíficas.,Las personas radicales promovieron cambios sociales a través de protestas pacíficas.,plurales,GPT-3.5_CaDi
+Los integrantes del equipo de investigación deben trabajar juntos para alcanzar los objetivos propuestos.,Quienes integren el equipo de investigación deben trabajar juntos para alcanzar los objetivos propuestos.,dificultades_variadas,GPT-3.5_fewshot
+el usuario abonará los pagos en caso de haber retraso,se abonarán los pagos en caso de haber retraso,dificultades_variadas,neutral_es
+los candidatos son María F. y Luis G.,han presentado su candidatura María F. y Luis G.,dificultades_variadas,neutral_es
+el estudiante declara su conformidad con el procesamiento electrónico de sus datos personales.,el estudiante declara su conformidad con el procesamiento electrónico de sus datos personales.,no_cambia,neutral_es
+Con este curso se mejorará su capacidad para atender eficientemente a los pacientes extranjeros,Con este curso se mejorará su capacidad para atender eficientemente a pacientes extranjeros,dificultades_variadas,neutral_es
+la mujer de mi abuelo era abogado,la mujer de mi abuelo era abogada,feminizar_profesiones,human_combinatory
+"Certificación del Acta de fundación , con firmas autógrafas de asistentes o de quienes firmen por ellos y la anotación de sus respectivas tarjetas de identidad","Certificación del Acta de fundación , con firmas autógrafas de asistentes o de quienes firmen por ellos y la anotación de sus respectivas tarjetas de identidad",no_cambia,neutral_es
+las ponentes deberán llegar con media hora de antelación,quienes expongan deberán llegar con media hora de antelación,dificultades_variadas,neutral_es
+Disfruto de que seáis vosotros quienes de vez en cuando me lea algo,Disfruto de que me leáis algo de vez en cuando,dificultades_variadas,neutral_es
+Todos los ponentes al curso obtendrán un regalo,Cada ponente al curso obtendrá un regalo,dificultades_variadas,neutral_es
+Los investigadores científicos están haciendo importantes descubrimientos en el laboratorio.,Los investigadores e investigadoras científicas están haciendo importantes descubrimientos en el laboratorio.,plural_complejo,GPT-3.5_fs_multiplication
+Las profesoras Lila Wang y Mónica Torres participaron en actividades extracurriculares,Las profesoras Lila Wang y Mónica Torres participaron en actividades extracurriculares,nombres_propios,GPT-3.5_fewshot
+Los delegados Luis Martínez y Mario García representaron a su país en la conferencia,Los delegados Luis Martínez y Mario García representaron a su país en la conferencia,nombres_propios,GPT-3.5_fewshot
+Otro campo de acción importante han sido los hospitales donde se trabaja con los médicos codo con codo,Otro campo de acción importante han sido los hospitales donde se trabaja con el personal médico codo con codo,dificultades_variadas,neutral_es
+Las alumnas Wei Chen y Hiroshi Tanaka destacaron en sus estudios,Las alumnas Wei Chen y Hiroshi Tanaka destacaron en sus estudios,nombres_propios,GPT-3.5_fewshot
+"Los funcionarios , el poder judicial y en particular las instituciones encargadas de la seguridad velarán por el cumplimiento de la legislación","El funcionariado , el poder judicial y en particular las instituciones encargadas de la seguridad velarán por el cumplimiento de la legislación",dificultades_variadas,neutral_es
+Los consejeros brindaron orientación a los empleados,La consejería brindó orientación a los empleados,plural_neutro,GPT-3.5_fewshot
+El vicepresidente González representó a la compañía en la conferencia internacional.,El vicepresidente González representó a la compañía en la conferencia internacional.,nombres_propios,GPT-3.5_fewshot
+Los arredadores alquilan propiedades a los arrendatarios.,Las personas arrendadoras alquilan propiedades a las personas arrendatarias.,plurales,GPT-3.5_CaDi
+Tenemos que cubrir las carencias que tiene el promotor contratando personal cualificado con un perfil diferente para compensar los errores pasados,Tenemos que cubrir las carencias que tiene el personal promotor contratando personal cualificado con un perfil diferente para compensar los errores pasados,plural_complejo,neutral_es
+Se han incorporado al centro dos docentes para el nuevo curso. Los formadores Carlos y Raúl serán los responsables de coordinar el departamento de Educación Física.,Se han incorporado al centro dos docentes para el nuevo curso. Los profesores Carlos y Raúl serán los responsables de coordinar el departamento de Educación Física.,dificultades_variadas,neutral_es
+Las secretarias Mónica Khan y Wei Zhang atendieron las llamadas telefónicas,Las secretarias Mónica Khan y Wei Zhang atendieron las llamadas telefónicas,nombres_propios,GPT-3.5_fewshot
+Los ministros tomaron decisiones importantes para el país.,Las ministras y los ministros tomaron decisiones importantes para el país.,plurales,GPT-3.5_CaDi
+Los científicos realizan experimentos en el laboratorio.,Los y las científicas realizan experimentos en el laboratorio.,plural_complejo,GPT-3.5_fewshot
+Los alumnos deberán presentar formulario completo para el ingreso a obra.,El alumnado deberá presentar formulario completo para el ingreso a obra.,plural_neutro,guia_TAI
+La literatura de los extremeños es rica en folclore,La literatura extremeña es rica en folclore,culturas,GPT-3.5_fewshot
+Me gusta que seáis vosotros quienes me recite algo,Me gusta que alguna persona me recite algo,dificultades_variadas,neutral_es
+Se debe escuchar la opinión de las usuarias de la aplicación,Se debe escuchar la opinión de quienes usan la aplicación,dificultades_variadas,neutral_es
+Con entusiasmo  Miriam solía trabajar de abogado pero ahora es ejecutivo de ventas y se involucra en la protección y rescate de animales.,Con entusiasmo  Miriam solía trabajar de abogada pero ahora es ejecutiva de ventas y se involucra en la protección y rescate de animales.,feminizar_profesiones,human_combinatory
+Los ingleses son aficionados al té,En Inglaterra hay mucha afición por el té.,culturas,GPT-3.5_fs_multiplication
+Estos servicios permitirán que los administrativos trabajen con más eficacia,Estos servicios permitirán que el personal administrativo trabaje con más eficacia,dificultades_variadas,neutral_es
+El investigador presentó sus hallazgos ante el panel de expertos.,El personal de investigación presentó sus hallazgos ante el panel de expertos.,plurales,GPT-3.5_CaDi
+Unos diez asistentes se unieron al grupo de voluntarios para limpiar el parque local.,Aproximadamente diez asistentes se unieron al grupo de voluntarios para limpiar el parque local.,persona_generica,GPT-3.5_fewshot
+Los responsables se aseguraron de que todo estuviera en orden.,Las personas responsables se aseguraron de que todo estuviera en orden.,plurales,GPT-3.5_CaDi
+Se convocará a los tutores por orden alfabético.,Se convocará al profesorado por orden alfabético.,dificultades_variadas,neutral_es
+Las delegadas Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,Las delegadas Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,nombres_propios,GPT-3.5_fewshot
+Las secretarias Lila Wang y Mónica Torres programaron las reuniones del equipo,Las secretarias Lila Wang y Mónica Torres programaron las reuniones del equipo,nombres_propios,GPT-3.5_fewshot
+Participaron unos ciento cincuenta participantes,Participaron ciento cincuenta participantes,dificultades_variadas,neutral_es
+la prima de Miguel es muy buena ingeniero civil,la prima de Miguel es muy buena ingeniera civil,feminizar_profesiones,human_combinatory
+Estos servicios permitirán que los administrativos trabajen con más celeridad,Estos servicios permitirán que el personal administrativo trabaje con más celeridad,dificultades_variadas,neutral_es
+Podrán trabajar los estudiantes que se presenten,Podrá trabajar cualquier estudiante que se presente,parafrasis,GPT-3.5_fs_multiplication
+El presidente Milei anunció nuevas políticas públicas.,El presidente Milei anunció nuevas políticas públicas.,nombres_propios,GPT-3.5_fewshot
+Las profesoras Lucía y Sofía impartirán el temario de Lengua Castellana.,Las profesoras Lucía y Sofía impartirán el temario de Lengua Castellana.,no_cambia,neutral_es
+La iniciativa tiene como objetivo llegar a los alumnos de la Universidad de Granada,La iniciativa tiene como objetivo llegar a estudiantes de la Universidad de Granada,dificultades_variadas,neutral_es
+Los carteros entregan el correo a los hogares.,Quienes reparten el correo entregan el correo a los hogares.,plurales,GPT-3.5_CaDi
+Todos tenemos que disfrutar de la vida,Cada persona tiene que disfrutar de la vida,dificultades_variadas,neutral_es
+Los entrenadores deportivos motivan a los atletas a dar lo mejor de sí mismos.,Los entrenadores y entrenadoras motivan a los deportistas a dar lo mejor de sí mismos.,plural_complejo,GPT-3.5_fs_multiplication
+Los funcionarios públicos trabajan para servir a la comunidad.,El funcionariado público trabaja para servir a la comunidad.,plural_neutro,GPT-3.5_fs_multiplication
+Hazte socia y recibirás un pack de bienvenida.,Asóciate y recibirás un pack de bienvenida.,dificultades_variadas,neutral_es
+La música popular de los brasileros es muy diversa,La música popular brasileña es muy diversa,culturas,GPT-3.5_fewshot
+Los programadores desarrollaron un nuevo software.,El personal de programación desarrolló un nuevo software.,plurales,GPT-3.5_fs_multiplication
+Las lesbianas luchan por la igualdad de derechos en la sociedad.,Las mujeres lesbianas luchan por la igualdad de derechos en la sociedad.,terminologia,GPT-3.5_fewshot
+Asistieron unos ciento cincuenta participantes,Asistieron ciento cincuenta participantes,dificultades_variadas,neutral_es
+"Debido a esto , el premio se entregará a los candidatos seleccionados en una ceremonia","Debido a esto , el premio se entregará a las candidaturas seleccionadas en una ceremonia",dificultades_variadas,neutral_es
+El distribuidor entregó los productos a tiempo en todas las tiendas.,La distribución entregó los productos a tiempo en todas las tiendas.,plural_neutro,GPT-3.5_fewshot
+Las coordinadoras Sofía García y Juana Martínez planificaron el cronograma del proyecto,Las coordinadoras Sofía García y Juana Martínez planificaron el cronograma del proyecto,nombres_propios,GPT-3.5_fewshot
+Los científicos realizan experimentos en el laboratorio.,La comunidad científica realiza experimentos en el laboratorio.,plurales,GPT-3.5_CaDi
+Los ciudadanos ejercieron su derecho al voto en las elecciones.,La ciudadanía ejerció su derecho al voto en las elecciones.,plural_neutro,GPT-3.5_fs_multiplication
+"aquellos que no tengan coche , tendrán que coger autobús","quienes no tengan coche , tendrán que coger autobús",dificultades_variadas,neutral_es
+Los homeópatas recetaron tratamientos naturales a sus pacientes.,Las y los homeópatas recetaron tratamientos naturales a sus pacientes.,plurales,GPT-3.5_CaDi
+Se comunica a los estudiantes que la fecha límite para la entrega de proyectos se ha extendido hasta el próximo martes.,Se comunica que la fecha límite para la entrega de proyectos se ha extendido hasta el próximo martes.,omision,GPT-3.5_fewshot
+Deberán asistir los estudiantes que se hayan comprometido,Deberá asistir cualquier estudiante que se haya comprometido,parafrasis,GPT-3.5_fs_multiplication
+la amiga de mi hermana trabaja de contador y aprende un nuevo idioma en línea.,la amiga de mi hermana trabaja de contable y aprende un nuevo idioma en línea.,feminizar_profesiones,human_combinatory
+Los vecinos se reúnen para celebrar el cumpleaños del barrio.,El vecindario se reúne para celebrar el cumpleaños del barrio.,plurales,GPT-3.5_fewshot
+"No obstante , los aspirantes deberán comunicar inmediatamente a la Comisión cualquier modificación determinante de su situación jurídica.","No obstante , quienes aspiren deberán comunicar inmediatamente a la Comisión cualquier modificación determinante de su situación jurídica.",dificultades_variadas,neutral_es
+El secretario organizó la agenda de la reunión.,La secretaría organizó la agenda de la reunión.,plural_neutro,GPT-3.5_fewshot
+El tiempo que esté aquí no debe tomar ninguna medicación que no le sea suministrada por los especializados de nuestro centro,El tiempo que esté aquí no debe tomar ninguna medicación que no le sea suministrada por el personal experto de nuestro centro,dificultades_variadas,neutral_es
+Los médicos realizan cirugías todos los días.,El personal médico realiza cirugías todos los días.,plural_complejo,GPT-3.5_fewshot
+Con pasión por su profesión  la tía de mi mujer solía trabajar de vendedora y soñaba con ser actor y se sumerge en la lectura de libros de filosofía.,Con pasión por su profesión  la tía de mi mujer solía trabajar de vendedora y soñaba con ser actriz y se sumerge en la lectura de libros de filosofía.,feminizar_profesiones,human_combinatory
+Los veterinarios cuidan la salud y el bienestar de los animales.,El personal veterinario cuida la salud y el bienestar de los animales.,plurales,GPT-3.5_CaDi
+Los perdedores aceptaron la derrota con dignidad y deportividad.,Perdedoras y perdedores aceptaron la derrota con dignidad y deportividad.,plurales,GPT-3.5_CaDi
+El promotor organiza eventos culturales en la plaza.,El equipo promotor organiza eventos culturales en la plaza.,plural_complejo,GPT-3.5_fs_multiplication
+Los naturópatas promovieron la salud natural con hierbas y remedios.,Las y los naturópatas promovieron la salud natural con hierbas y remedios.,plurales,GPT-3.5_CaDi
+Los adjuntos colaboran estrechamente con los principales responsables.,El personal adjunto colabora estrechamente con los principales responsables.,plurales,GPT-3.5_CaDi
+Necesitamos un programador para desarrollar una nueva aplicación móvil.,Necesitamos un programador o programadora para desarrollar una nueva aplicación móvil.,plural_complejo,GPT-3.5_fewshot
+Los directores Muhammad Khan y Wei Zhang establecieron las políticas de la institución,Los directores Muhammad Khan y Wei Zhang establecieron las políticas de la institución,nombres_propios,GPT-3.5_fewshot
+La tecnología y la innovación de los coreanos son líderes en el mercado global,La tecnología y la innovación coreana son líderes en el mercado global,culturas,GPT-3.5_fewshot
+Unos trescientos estudiantes asistieron a la conferencia sobre cambio climático.,Aproximadamente trescientos estudiantes asistieron a la conferencia sobre cambio climático.,parafrasis,GPT-3.5_fewshot
+Los argentinos son maestros en el arte del asado,La población argentina es maestra en el arte del asado.,culturas,GPT-3.5_fs_multiplication
+Las estudiantes Ana Ahmed y Wei Zhang participaron en actividades extracurriculares,Las estudiantes Ana Ahmed y Wei Zhang participaron en actividades extracurriculares,nombres_propios,GPT-3.5_fewshot
+Los toreros demostraron su valentía en la plaza de toros.,Las toreras y toreros demostraron su valentía en la plaza de toros.,plurales,GPT-3.5_CaDi
+el autor de esta novela es Virginia Wolf,la autoría de esta novela es Virginia Wolf,dificultades_variadas,neutral_es
+Cada asistente deberá solicitar la documentación actualizada,Cada asistente deberá solicitar la documentación actualizada,no_cambia,neutral_es
+Los agricultores enfrentan desafíos climáticos.,El sector agrícola enfrenta desafíos climáticos.,plurales,GPT-4_human
+Los representantes de los trabajadores y de la Administración debatirán cuestiones esenciales,La representación del personal y de la Administración debatirán cuestiones esenciales,plural_complejo,guía_CCGG
+Los ilustradores dieron vida a las páginas del libro con sus dibujos.,El mundo de la ilustración dio vida a las páginas del libro con sus dibujos.,plurales,GPT-3.5_CaDi
+El cojo subió las escaleras con dificultad.,La persona con discapacidad física subió las escaleras con dificultad.,terminologia,GPT-3.5_fewshot
+Los directivos están a cargo de la gestión de la empresa.,El equipo directivo está a cargo de la gestión de la empresa.,plurales,GPT-3.5_CaDi
+Cuando son niños No saben caminar correctamente,En su niñez No saben caminar correctamente,dificultades_variadas,neutral_es
+Los jefes Abdul Rahman Khan y Muhammad Khan establecieron las políticas de la compañía,Los jefes Abdul Rahman Khan y Muhammad Khan establecieron las políticas de la compañía,nombres_propios,GPT-3.5_fewshot
+Las personas intermediarias de la negociación se ocuparán también de saber si el local tiene las deudas saldadas,Las personas intermediarias de la negociación se ocuparán también de saber si el local tiene las deudas saldadas,no_cambia,neutral_es
+"La de Barcelona , organizada por los directores del departamento de finanzas , tendrá lugar el 5 de septiembre","La de Barcelona , organizada por el equipo directivo del departamento de finanzas , tendrá lugar el 5 de septiembre",dificultades_variadas,neutral_es
+"Previamente , los aspirantes deberán comunicar inmediatamente a la Comisión cualquier modificación determinante","Previamente , quienes aspiren deberán comunicar inmediatamente a la Comisión cualquier modificación determinante",dificultades_variadas,neutral_es
+Actividades para niños están programadas durante todo el fin de semana.,Actividades infantiles están programadas durante todo el fin de semana.,plurales,GPT-3.5_CaDi
+Queremos que sigas escuchando la radio. Aunque sea en el móvil con conexión wifi. Aunque sea en calzoncillos. ,Queremos que sigas escuchando la radio. Aunque sea en el móvil con conexión wifi. Aunque sea en ropa interior. ,otros,human
+Los entrenadores prepararon un plan de entrenamiento intensivo.,Los entrenadores y entrenadoras prepararon un plan de entrenamiento intensivo.,plural_complejo,GPT-3.5_fs_multiplication
+El presidente Fernández promulgó leyes para la protección del medio ambiente.,El presidente Fernández promulgó leyes para la protección del medio ambiente.,nombres_propios,GPT-3.5_fewshot
+"Con perseverancia,  la prima de Gabriel solía trabajar de psicóloga aunque desde hace poco es soldador y visita regularmente el teatro para disfrutar de obras de teatro.","Con perseverancia,  la prima de Gabriel solía trabajar de psicóloga aunque desde hace poco es soldadora y visita regularmente el teatro para disfrutar de obras de teatro.",feminizar_profesiones,human_combinatory
+Las dos chicas de la izquierda son andaluzas,Las dos chicas de la izquierda son andaluzas,no_cambia,human
+Debe figurar el nombre de la ocupante de la plaza,Debe figurar el nombre de quien ocupa la plaza,dificultades_variadas,neutral_es
+Los gays lucharon por sus derechos en la manifestación.,Las personas homosexuales lucharon por sus derechos en la manifestación.,plurales,GPT-3.5_CaDi
+la mujer de Rafael es oficial de policía y visita museos y galerías de arte para inspirarse.,la mujer de Rafael es oficial de policía y visita museos y galerías de arte para inspirarse.,feminizar_profesiones,human_combinatory
+Los fisioterapeutas ayudaron en la rehabilitación del paciente.,El personal de fisioterapia ayudó en la rehabilitación del paciente.,plurales,GPT-3.5_CaDi
+Las formadoras María y Carmen impartirán la asignatura de Educación Física.,Las formadoras María y Carmen impartirán la asignatura de Educación Física.,no_cambia,neutral_es
+Durante la temporada alta  mi madre era una gran recepcionista sin embargo desde el mes pasado trabaja de economista y practica la meditación y la atención plena para encontrar calma interior.,Durante la temporada alta  mi madre era una gran recepcionista sin embargo desde el mes pasado trabaja de economista y practica la meditación y la atención plena para encontrar calma interior.,feminizar_profesiones,human_combinatory
+No lo dudes hazte socio y colabora con nuestra asociación,No lo dudes asóciate y colabora con nuestra asociación,dificultades_variadas,neutral_es
+La inspector relevo el territorio.,La inspectora relevo el territorio.,feminizar_profesiones,guia_TAI
+Los acreedores esperan el pago de la deuda.,Acreedoras y acreedores esperan el pago de la deuda.,plurales,GPT-3.5_CaDi
+"Según han advertido muchos expertos, la deforestación está causando graves daños al medio ambiente.","Según han advertido gran cantidad de especialistas, la deforestación está causando graves daños al medio ambiente.",parafrasis,GPT-3.5_fewshot
+Asistieron ciento cincuenta participantes,Asistieron ciento cincuenta participantes,no_cambia,neutral_es
+Todos los asistentes al curso recibirán una carpeta con materiales,Cada asistente al curso recibirá una carpeta con materiales,dificultades_variadas,neutral_es
+"Con habilidades excepcionales,  Silvia era una fantástica profesor pero ahora es fotógrafo y se involucra en la protección y rescate de animales.","Con habilidades excepcionales,  Silvia era una fantástica profesora pero ahora es fotógrafa y se involucra en la protección y rescate de animales.",feminizar_profesiones,human_combinatory
+Los buceadores exploran el fondo del mar en busca de tesoros.,Buceadoras y buceadores exploran el fondo del mar en busca de tesoros.,plurales,GPT-3.5_CaDi
+Los padres son responsables de inculcar valores y principios en sus hijos desde una edad temprana.,Las madres y los padres son responsables de inculcar valores y principios en sus hijos desde una edad temprana.,terminologia,GPT-3.5_fewshot
+Esta guía servirá a los profesionales e investigadores para diagnosticar y evaluar el papel e impacto de los telecentros comunitarios.,Esta guía servirá al personal profesional investigador para diagnosticar y evaluar el papel e impacto de los telecentros comunitarios.,dificultades_variadas,neutral_es
+"¿Cómo cabe esperar que la situación empeore si los encargados , las encargadas de juzgar , ejecutar y evaluar los programas apenas tiene en cuenta este aspecto?","¿Cómo cabe esperar que la situación empeore si el personal encargado de juzgar , ejecutar y evaluar los programas apenas tiene en cuenta este aspecto?",dificultades_variadas,neutral_es
+el novio de mi prima es muy buen entrenador,el novio de mi prima es muy buen entrenador,feminizar_profesiones,human_combinatory
+Aprecio que seáis vosotros quienes me recite algo,Aprecio que alguien me recite algo,dificultades_variadas,neutral_es
+"la que tenga prisa , que salga ya","quien tenga prisa , que salga ya",dificultades_variadas,neutral_es
+Se recuerda a los empleados que la empresa ofrecerá un curso de primeros auxilios el próximo mes.,Se recuerda que la empresa ofrecerá un curso de primeros auxilios el próximo mes.,omision,GPT-3.5_fewshot
+Desde que comenzó a trabajar  la amiga de Eva es una investigador fantástica,Desde que comenzó a trabajar  la amiga de Eva es una investigadora fantástica,feminizar_profesiones,human_combinatory
+Para ser catedrático se requiere ser constante,Para obtener una cátedra se requiere ser constante,dificultades_variadas,neutral_es
+Aún no se han finalizado estudios determinantes del motivo por el cual algunos tienen reacciones,Aún no se han finalizado estudios determinantes del motivo por el cual ciertas personas tienen reacciones,dificultades_variadas,neutral_es
+"La de Madrid organizada por los directores del departamento de finanzas , se celebrará el 25 de julio","La de Madrid organizada por el equipo directivo del departamento de finanzas , se celebrará el 25 de julio",dificultades_variadas,neutral_es
+Podrán trabajar los concursantes que se hayan comprometido,Podrá trabajar cualquier concursante que se haya comprometido,parafrasis,GPT-3.5_fs_multiplication
+"Con gran vocación,  la hermana de mi novio Pedro era una gran dentista aunque desde hace poco es escritor y cuida de su jardín y cultiva hermosas flores.","Con gran vocación,  la hermana de mi novio Pedro era una gran dentista aunque desde hace poco es escritora y cuida de su jardín y cultiva hermosas flores.",feminizar_profesiones,human_combinatory
+Los bomberos apagaron el incendio en el edificio residencial.,Se apagó el incendio en el edificio residencial.,omision,GPT-3.5_fewshot
+Puede una persona diferenciar el bien del mal?,Se puede diferenciar el bien del mal?,dificultades_variadas,neutral_es
+Todos los alumnos deben entregar la tarea mañana.,Todo el alumnado debe entregar la tarea mañana.,plurales,GPT-4_human
+La paralítica necesitaba asistencia para realizar tareas cotidianas.,La persona con movilidad reducida necesitaba asistencia para realizar tareas cotidianas.,terminologia,GPT-3.5_fs_multiplication
+realizamos entrevistas con el personal responsable de la preparación y control de los procedimientos,realizamos entrevistas con el personal responsable de la preparación y control de los procedimientos,no_cambia,neutral_es
+Los festivales y celebraciones de las brasileñas son muy coloridos,Los festivales y celebraciones brasileñas son muy coloridos,culturas,GPT-3.5_fewshot
+"Debido a esto , el premio podrá asignarse a las candidatas seleccionadas en una ceremonia","Debido a esto , el premio podrá asignarse a las candidaturas seleccionadas en una ceremonia",dificultades_variadas,neutral_es
+Se debe tener siempre en cuenta a los competidores,Se debe tener siempre en cuenta a la competencia,dificultades_variadas,neutral_es
+Los lingüistas estudiaron el origen y evolución de las lenguas.,La lingüística estudió el origen y evolución de las lenguas.,plurales,GPT-3.5_CaDi
+Las personas más afectadas por la crisis son los desempleados de larga duración.,Las personas más afectadas por la crisis son las desempleadas de larga duración.,falsa_concordancia,human
+Los empleados deben completar su formulario de evaluación antes del plazo.,Cada empleado debe completar su formulario de evaluación antes del plazo.,parafrasis,GPT-3.5_fs_multiplication
+Los becarios adquieren experiencia laboral durante su formación.,Las personas becadas adquieren experiencia laboral durante su formación.,plurales,GPT-3.5_CaDi
+Los estudiantes Santiago García y Juan Martínez organizaron un evento benéfico para la comunidad,Los estudiantes Santiago García y Juan Martínez organizaron un evento benéfico para la comunidad,nombres_propios,GPT-3.5_fewshot
+Los senadores aprobaron el tratado internacional,El Senado aprobó el tratado internacional,plural_neutro,GPT-3.5_fewshot
+Cada uno de los ponentes podrá solicitar el material requerido,Cada ponente podrá solicitar el material requerido,dificultades_variadas,neutral_es
+la amiga de mi prima es una conductor de camión fantástica,la amiga de mi prima es una conductora de camión fantástica,feminizar_profesiones,human_combinatory
+Los neozelandeses son amantes de los deportes acuáticos,En Nueva Zelanda son amantes de los deportes acuáticos,culturas,GPT-3.5_fs_multiplication
+"Estos proyectos se desarrollan en todo el espectro de interacciones entre los funcionarios y el público , ya sea en la contratación , admisión escolar entre otros","Estos proyectos se desarrollan en todo el espectro de interacciones entre el personal funcionario y el público , ya sea en la contratación , admisión escolar entre otros",dificultades_variadas,neutral_es
+Los portavoces del partido anunciaron la nueva campaña electoral.,La portavocía del partido anunció la nueva campaña electoral.,plurales,GPT-3.5_fs_multiplication
+"Según muchos especialistas, la inteligencia artificial revolucionará el mundo laboral.","Según gran cantidad de especialistas, la inteligencia artificial revolucionará el mundo laboral.",parafrasis,GPT-3.5_fs_multiplication
+Los docentes Adolfo y Germán impartirán la asignatura de Dibujo Técnico.,Los docentes Adolfo y Germán impartirán la asignatura de Dibujo Técnico.,no_cambia,neutral_es
+"No obstante , quienes aspiren deberán comunicar inmediatamente a la Comisión cualquier modificación importante de su situación jurídica.","No obstante , quienes aspiren deberán comunicar inmediatamente a la Comisión cualquier modificación importante de su situación jurídica.",no_cambia,neutral_es
+"Cuyo uso hubiera sido cedido a parientes , incluidos los afines","Cuyo uso hubiera sido cedido a parientes , incluyendo afines",dificultades_variadas,neutral_es
+Los profesores Fernando y Javier impartirán la asignatura de Ciencias de la Tierra.,Los profesores Fernando y Javier impartirán la asignatura de Ciencias de la Tierra.,no_cambia,neutral_es
+Los programadores están desarrollando un nuevo software para la empresa.,Las programadoras y programadores están desarrollando un nuevo software para la empresa.,plural_complejo,GPT-3.5_fs_multiplication
+Teatro para las jóvenes,Teatro juvenil,dificultades_variadas,neutral_es
+Hay algunos que opinan...,Hay quienes opinan...,persona_generica,guia_CHRYSALLIS
+Fomentar la participación de los alumnos en el juego y también el diálogo entre los alumnos,Fomentar la participación del estudiantado en el juego y también el diálogo entre el alumnado,dificultades_variadas,neutral_es
+Podrá solicitar la beca todo estudiante que esté matriculado en la Universidad de Jaén.,Podrá solicitar la beca todo estudiante que se haya matriculado en la Universidad de Jaén.,dificultades_variadas,neutral_es
+Las formadoras Ana y Josefa impartirán la asignatura de Física.,Las formadoras Ana y Josefa impartirán la asignatura de Física.,nombres_propios,neutral_es
+El número de profesores admitidos ha sido menor que en otras ocasiones,El número de profesorado admitido ha sido menor que en otras ocasiones,dificultades_variadas,neutral_es
+Los niños y las niñas juegan en el parque.,Los niños y las niñas juegan en el parque.,plurales,GPT-4_human
+Participaron unos quinientos participantes,Participaron quinientos participantes,dificultades_variadas,neutral_es
+"Debido a esto , la cuantía económica estipulada se entregará a los candidatos seleccionados en una ceremonia","Debido a esto , la cuantía económica estipulada se entregará a las candidaturas seleccionadas en una ceremonia",dificultades_variadas,neutral_es
+los equipos de trabajo funcionan únicamente como vehículo para que alguno pueda hacerse con el control,los equipos de trabajo funcionan únicamente como vehículo para que cierta persona pueda hacerse con el control,dificultades_variadas,neutral_es
+así eran los modos de vida de nuestras antepasadas,así eran los modos de vida del pasado,dificultades_variadas,neutral_es
+Siempre debes hablar con el especialista en la materia,Siempre debes hablar con la persona especializada en la materia,dificultades_variadas,neutral_es
+Como todos vemos...,Como podemos ver…,omision,guia_CHRYSALLIS
+Podrán trabajar los docentes que hayan presentado la solicitud,Podrá trabajar cualquier docente que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Los músicos tocan sus instrumentos en el escenario.,Los músicos y músicas tocan sus instrumentos en el escenario.,plural_complejo,GPT-3.5_fs_multiplication
+Los pescadores zarparon al mar en busca de una buena pesca.,El sector de la pesca se preparaba para zarpar al mar en busca de una buena pesca.,plurales,GPT-3.5_CaDi
+"A los andaluces se nos ha educado con eso de que para triunfar hay que irse a Madrid. Pero creo que ha cambiado. Sobre todo con el acento: si ya me parece reivindicativo el hecho de que te salga natural, mantenerlo en tus proyectos aún más todavía","Al pueblo andaluz se nos ha educado con eso de que para triunfar hay que irse a Madrid. Pero creo que ha cambiado. Sobre todo con el acento: si ya me parece reivindicativo el hecho de que te salga natural, mantenerlo en tus proyectos aún más todavía",culturas,human
+la hermana de Andrés era fotógrafo,la hermana de Andrés era fotógrafa,feminizar_profesiones,human_combinatory
+¿ Cuántas quieres?,¿ Qué cantidad quieres?,dificultades_variadas,neutral_es
+Cada alumno debe realizar una presentación sobre un tema de su elección.,Cada estudiante debe realizar una presentación sobre un tema de su elección.,persona_generica,GPT-3.5_fewshot
+"Estas iniciativas se desarrollan en todo el espectro de interacciones entre los funcionarios y el público , ya sea en el gobierno , salud entre otros","Estas iniciativas se desarrollan en todo el espectro de interacciones entre el funcionariado y el público , ya sea en el gobierno , salud entre otros",dificultades_variadas,neutral_es
+"“fortalecimiento de la asociatividad
+cultural de los jóvenes chilenos.”","“fortalecimiento de la asociatividad
+cultural de la juventud chilena”",plural_neutro,guia_CL
+Con estas charlas se mejorará su capacidad para atender eficientemente a los pacientes extranjeros,Con estas charlas se mejorará su capacidad para atender eficientemente a pacientes extranjeros,dificultades_variadas,neutral_es
+El vicedirector lideró la reunión del equipo administrativo,La vicedirección lideró la reunión del equipo administrativo,plural_neutro,GPT-3.5_fewshot
+realizamos entrevistas con el personal responsable de la preparación y puesta en marcha de los procedimientos,realizamos entrevistas con el personal responsable de la preparación y puesta en marcha de los procedimientos,no_cambia,neutral_es
+Los ciudadanos protestaron la mañana del domingo contra los recortes económicos,La ciudadanía protestó la mañana del domingo contra los recortes económicos,plurales,human
+"Desde que se especializó en su área,  la madre de mi madre Luisa era una soldador fantástica","Desde que se especializó en su área,  la madre de mi madre Luisa era una soldadora fantástica",feminizar_profesiones,human_combinatory
+Estas iniciativas se desarrollan en todo el espectro de interacciones entre los funcionarios y el público,Estas iniciativas se desarrollan en todo el espectro de interacciones entre el personal funcionario y el público,dificultades_variadas,neutral_es
+Hemos aumentado el número de los formadores,Hemos aumentado el número de profesorado admitido,dificultades_variadas,neutral_es
+Los abogados defienden los derechos de sus clientes en el tribunal.,La abogacía defiende los derechos de sus clientes en el tribunal.,plural_complejo,GPT-3.5_fs_multiplication
+Los comentaristas analizan el partido de fútbol en la televisión.,Quienes comentan analizan el partido de fútbol en la televisión.,plurales,GPT-3.5_CaDi
+Los ancianos pueden sentirse solos en la vejez.,Las personas mayores pueden sentirse solas en la vejez.,terminologia,GPT-3.5_fewshot
+Los trabajadores y sus esposas están invitados a la cena de fin de año.,La plantilla y sus familias están invitadas a la cena de fin de año.,plural_complejo,GPT-3.5_fs_multiplication
+Los empresarios invirtieron en nuevas tecnologías.,Las empresarias y los empresarios invirtieron en nuevas tecnologías.,plural_complejo,GPT-3.5_fewshot
+Los intermediarios del acuerdo se ocuparán también de saber si la oficina tiene todas sus cuentas al día y si no hay cargas,Las personas intermediarias del acuerdo se ocuparán también de saber si la oficina tiene todas sus cuentas al día y si no hay cargas,dificultades_variadas,neutral_es
+Es el portavoz del sector empresarial,Es portavoz del sector empresarial,omision,guia_MX
+Considerando que debe protegerse competentemente a las trabajadoras del riesgo de contraer cáncer como consecuencia de la exposición a la radiación,Considerando que debe protegerse competentemente al personal del riesgo de contraer cáncer como consecuencia de la exposición a la radiación,dificultades_variadas,neutral_es
+Los entrevistadores hacen preguntas durante la entrevista de trabajo.,Quienes entrevistan hacen preguntas durante la entrevista de trabajo.,plurales,GPT-3.5_CaDi
+Se debería proteger eficazmente a los trabajadores del riesgo de contraer enfermedades como consecuencia de la exposición a la radiación,Se debería proteger eficazmente al equipo del riesgo de contraer enfermedades como consecuencia de la exposición a la radiación,dificultades_variadas,neutral_es
+Los entrenadores preparan a los atletas para la competencia.,Las personas entrenadoras preparan a los atletas para la competencia.,plurales,GPT-3.5_CaDi
+Los artistas locales exhibirán sus obras en la galería de arte.,Artistas locales exhibirán sus obras en la galería de arte.,omision,GPT-3.5_fewshot
+Es importante que los interesados acudan personalmente,Es importante acudir personalmente,omision,guia_CHRYSALLIS
+Los chefs cocinaron platos exquisitos para el banquete.,Se cocinaron platos exquisitos para el banquete.,omision,GPT-3.5_fewshot
+No está de más decir que carga con una larga historia de mala fama entre los electores,No está de más decir que carga con una larga historia de mala fama entre el electorado,dificultades_variadas,neutral_es
+Los jefes de departamento supervisaron la implementación del nuevo proyecto de ley.,La jefatura de departamento supervisó la implementación del nuevo proyecto de ley.,plurales,GPT-3.5_fewshot
+Los catadores prueban y evalúan la calidad de los alimentos y bebidas.,Catadoras y catadores prueban y evalúan la calidad de los alimentos y bebidas.,plurales,GPT-3.5_CaDi
+la amiga de mi prima trabaja de contador,la amiga de mi prima trabaja de contable,feminizar_profesiones,human_combinatory
+Los comunistas defienden los derechos de los trabajadores.,El comunismo defiende los derechos de los trabajadores.,plurales,GPT-3.5_CaDi
+"Por ello , la beca podrá repartirse a las candidatas seleccionadas en un único pago","Por ello , la beca podrá repartirse a las candidaturas seleccionadas en un único pago",dificultades_variadas,neutral_es
+así eran los modos de vida de nuestros antepasados,así eran los modos de vida de nuestros ancestros,dificultades_variadas,neutral_es
+la madre de Gonzalo es ingeniera,la madre de Gonzalo es ingeniera,feminizar_profesiones,human_combinatory
+Los bedeles ayudan en la organización de eventos académicos.,El personal auxiliar ayuda en la organización de eventos académicos.,plurales,GPT-3.5_CaDi
+El tiempo que esté aquí no debe tomar vitaminas que no le sean suministradas por los especialistas en su cirugía,El tiempo que esté aquí no debe tomar vitaminas que no le sean suministradas por el personal experto en su cirugía,dificultades_variadas,neutral_es
+los investigadores de la política y la economía,quienes analizan la política y la economía,otros,guia_IEM
+Otro campo de acción importante fueron los hospitales privados donde se trabaja con los médicos,Otro campo de acción importante fueron los hospitales privados donde se trabaja con el personal médico,dificultades_variadas,neutral_es
+Los anestesiólogos administran anestesia durante cirugías.,Anestesiólogas y anestesiólogos administran anestesia durante cirugías.,plurales,GPT-3.5_CaDi
+Los dibujantes plasman sus ideas en papel a través de sus dibujos.,Dibujantas y dibujantes plasman sus ideas en papel a través de sus dibujos.,plurales,GPT-3.5_CaDi
+Anímate hazte socio y colabora con nuestro proyecto,Anímate asóciate y colabora con nuestro proyecto,dificultades_variadas,neutral_es
+Los abogados lucharon por la justicia en el caso de sus clientes.,La abogacía luchó por la justicia en el caso de sus clientes.,plural_complejo,GPT-3.5_fs_multiplication
+Se han incorporado al centro dos docentes para el nuevo curso. Las profesoras Míriam y Elena serán las responsables de coordinar el departamento de Matemáticas.,Se han incorporado al centro dos docentes para el nuevo curso. Las profesoras Míriam y Elena serán las responsables de coordinar el departamento de Matemáticas.,no_cambia,neutral_es
+"Si la usuaria realiza la reclamación , se devolverá el dinero en un corto plazo","Si se realiza la reclamación , se devolverá el dinero en un corto plazo",dificultades_variadas,neutral_es
+"Según muchos expertos, la medicina genómica es el futuro de la medicina.","Según gran cantidad de especialistas, la medicina genómica es el futuro de la medicina.",parafrasis,GPT-3.5_fs_multiplication
+Hay que seguir las recomendaciones de los doctores,Hay que seguir las recomendaciones del equipo médico,dificultades_variadas,neutral_es
+"A María le gustaba la música como al que más, pero Antonio la ponía a todas horas.","A María le gustaba la música como a la que más, pero Antonio la ponía a todas horas.",falsa_concordancia,human
+Los relatores narraron los eventos deportivos en vivo por televisión.,Relatoras y relatores narraron los eventos deportivos en vivo por televisión.,plurales,GPT-3.5_CaDi
+Hay nuevas políticas destinadas a los niños.,Hay nuevas políticas destinadas a niños y niñas.,plural_complejo,guia_INAES
+Los veterinarios trataron a los animales heridos con cuidado.,Los veterinarios y veterinarias trataron a los animales heridos con cuidado.,plural_complejo,GPT-3.5_fs_multiplication
+No hay alumno que no tenga la solicitud cumplimentada,No hay estudiante que no tenga la solicitud cumplimentada,persona_generica,GPT-3.5_fewshot
+Los estudiantes son alentados a participar en actividades extracurriculares para enriquecer su experiencia educativa.,Se alienta a participar en actividades extracurriculares para enriquecer la experiencia educativa.,dificultades_variadas,GPT-3.5_fewshot
+Los psicólogos brindan apoyo emocional a sus pacientes.,El personal de psicología brinda apoyo emocional a sus pacientes.,plural_complejo,GPT-3.5_fewshot
+la cuñada de mi tía es policía y se reúne con colegas para jugar al ajedrez.,la cuñada de mi tía es policía y se reúne con colegas para jugar al ajedrez.,feminizar_profesiones,human_combinatory
+Los enfermeros brindaron atención médica en el hospital.,El personal de enfermería brindó atención médica en el hospital.,plurales,GPT-3.5_fs_multiplication
+Los organistas interpretaron música sacra en la iglesia con maestría.,Las y los organistas interpretaron música sacra en la iglesia con maestría.,plurales,GPT-3.5_CaDi
+La intendenta González inauguró el nuevo centro comunitario.,La intendenta González inauguró el nuevo centro comunitario.,nombres_propios,GPT-3.5_fewshot
+las secretarias,el personal administrativo,plural_complejo,guia_CHRYSALLIS
+Dichos clientes disfrutarán de descuentos exclusivos.,Tales clientes disfrutarán de descuentos exclusivos.,persona_generica,GPT-3.5_fewshot
+Las alumnas Daniela López y Sofía Martínez asistieron a clases regularmente,Las alumnas Daniela López y Sofía Martínez asistieron a clases regularmente,nombres_propios,GPT-3.5_fewshot
+Con estos cursos se mejorará su capacidad para atender eficientemente a los pacientes extranjeros,Con estos cursos se mejorará su capacidad para atender eficientemente a pacientes extranjeros,dificultades_variadas,neutral_es
+Las asesoras Wei Chen y Hiroshi Tanaka proporcionaron asistencia técnica a los clientes,Las asesoras Wei Chen y Hiroshi Tanaka proporcionaron asistencia técnica a los clientes,nombres_propios,GPT-3.5_fewshot
+Los jefes motivaron al equipo a alcanzar sus metas.,La jefatura motivó al equipo a alcanzar sus metas.,plural_neutro,GPT-3.5_fs_multiplication
+Con estos cursos se mejorará su capacidad para atender eficientemente a pacientes extranjeros,Con estos cursos se mejorará su capacidad para atender eficientemente a pacientes extranjeros,no_cambia,neutral_es
+Los embajadores representan a su país en el extranjero.,Las Embajadas representan a su país en el extranjero.,plurales,GPT-3.5_CaDi
+Los chefs cuidan cada detalle en la presentación de sus platos.,Los y las chefs cuidan cada detalle en la presentación de sus platos.,plural_complejo,GPT-3.5_fs_multiplication
+Las ciudadanas Aisha Mahmoud y Mónica Ali contribuyeron al desarrollo de la comunidad,Las ciudadanas Aisha Mahmoud y Mónica Ali contribuyeron al desarrollo de la comunidad,nombres_propios,GPT-3.5_fewshot
+la cuñada de mi marido es una asesor financiero buenísima,la cuñada de mi marido es una asesora financiera buenísima,feminizar_profesiones,human_combinatory
+El día del niño se celebra con alegría en todo el país.,El día de la niñez se celebra con alegría en todo el país.,plurales,GPT-3.5_CaDi
+Las estudiantes Sofía García y Juana Martínez organizaron un evento benéfico para la comunidad,Las estudiantes Sofía García y Juana Martínez organizaron un evento benéfico para la comunidad,nombres_propios,GPT-3.5_fewshot
+La moda y el diseño de los parisinos son vanguardistas y sofisticados,La moda y el diseño parisino son vanguardistas y sofisticados,culturas,GPT-3.5_fewshot
+el primo de mi amiga María era piloto,el primo de mi amiga María era piloto,feminizar_profesiones,human_combinatory
+El gerente pondrá a disposición del secretario la información requerida,Gerencia pondrá a disposición de secretaría la información requerida,dificultades_variadas,neutral_es
+La mayoría de los empleados cumplen con sus responsabilidades.,La mayoría del personal cumple con sus responsabilidades.,plural_complejo,GPT-3.5_fewshot
+Los directores,La dirección,colectivos,guia_CONICET
+Los docentes Martín y Lucas impartirán el temario de Lengua Castellana.,Los docentes Martín y Lucas impartirán el temario de Lengua Castellana.,no_cambia,neutral_es
+Los medios de comunicación podrán hacer difusión haciendo constar siempre la procedencia y el autor de los artículos periodísticos,Los medios de comunicación podrán hacer difusión haciendo constar siempre la procedencia y la autoría de los artículos periodísticos,dificultades_variadas,neutral_es
+Los presos deben cumplir sus condenas.,Las personas privadas de libertad deben cumplir sus condenas.,terminologia,GPT-3.5_fewshot
+Los coordinadores organizaron el evento con éxito,La coordinación organizó el evento con éxito,plural_neutro,GPT-3.5_fewshot
+Los intermediarios de la negociación se ocuparán también de saber si el local tiene las deudas saldadas,El equipo intermediador de la negociación se ocupará también de saber si el local tiene las deudas saldadas,dificultades_variadas,neutral_es
+estamos comprometidos con este proyecto,tenemos un compromiso con este proyecto ,persona_generica,human
+¿ Está usted empadronado en Noruega ?,¿ Tiene usted el empadronamiento en Noruega ?,dificultades_variadas,neutral_es
+Todos deben enviar su solicitud al Rectorado,Es preciso enviar su solicitud al Rectorado,dificultades_variadas,neutral_es
+Se han incorporado al centro dos docentes para el nuevo curso. Las profesoras Marina y Susana serán las responsables de coordinar el departamento de Física.,Se han incorporado al centro dos docentes para el nuevo curso. Las profesoras Marina y Susana serán las responsables de coordinar el departamento de Física.,no_cambia,neutral_es
+"Durante la reunión anual, unos doscientos asistentes discutieron los planes para el próximo año.","Durante la reunión anual, cerca de doscientos asistentes discutieron los planes para el próximo año.",persona_generica,GPT-3.5_fewshot
+El ministro presentó el plan de salud,El ministerio presentó el plan de salud,plural_neutro,GPT-3.5_fewshot
+Se presentarán distintos docentes del municipio,Se presentarán docentes diferentes del municipio,parafrasis,GPT-3.5_fs_multiplication
+"Debido a esto , el premio podrá asignarse totalmente a las candidaturas seleccionadas en una ceremonia","Debido a esto , el premio podrá asignarse totalmente a las candidaturas seleccionadas en una ceremonia",no_cambia,neutral_es
+Los integrantes de la mesa directiva decidirán,Se decidirá en la mesa directiva,omision,guia_MX
+"Debido a esto , la cuantía económica estipulada se entregará totalmente a las candidatas seleccionadas en una ceremonia","Debido a esto , la cuantía económica estipulada se entregará totalmente a las candidaturas seleccionadas en una ceremonia",dificultades_variadas,neutral_es
+Adriana es ejecutivo de ventas,Adriana es ejecutiva de ventas,feminizar_profesiones,human_combinatory
+Dijo Marta: “Lo que más me gusta de mi trabajo es que soy mi propio jefe.”,Dijo Marta: “Lo que más me gusta de mi trabajo es que soy mi propia jefa.”,feminizar_profesiones,human
+Los refugiados encontraron seguridad y esperanza en su nuevo país.,Las personas refugiadas encontraron seguridad y esperanza en su nuevo país.,plurales,GPT-3.5_CaDi
+Los obreros construyeron el puente en tiempo récord.,Se construyó el puente en tiempo récord.,omision,GPT-3.5_fewshot
+Siempre debes hablar con aquel con especialidad en la materia,Siempre debes hablar con la persona especializada en la materia,dificultades_variadas,neutral_es
+Establecer un protocolo de actuación para todo el profesorado de manera justa,Establecer un protocolo de actuación para todo el profesorado de manera justa,no_cambia,neutral_es
+La directora de estudios supervisó la implementación del nuevo plan de estudios.,La dirección de estudios supervisó la implementación del nuevo plan de estudios.,plural_neutro,GPT-3.5_fewshot
+El artista creará obras que inspiren a la gente.,Cada artista creará obras que inspiren a la gente.,persona_generica,GPT-3.5_fewshot
+mi hermano era un secretario fantástico y realiza actividades de voluntariado en refugios de animales.,mi hermano era un secretario fantástico y realiza actividades de voluntariado en refugios de animales.,feminizar_profesiones,human_combinatory
+El intendente Rodríguez atendió las solicitudes de los ciudadanos.,El intendente Rodríguez atendió las solicitudes de los ciudadanos.,nombres_propios,GPT-3.5_fewshot
+el profesorado,el profesorado,no_cambia,neutral_es
+El presidente Macri supervisó la implementación de reformas.,El presidente Macri supervisó la implementación de reformas.,nombres_propios,GPT-3.5_fewshot
+Las festividades religiosas de los filipinos son muy coloridas,Las festividades religiosas filipinas son muy coloridas,culturas,GPT-3.5_fewshot
+Los mecánicos repararon el motor del automóvil en el taller.,Las y los especialistas en mecánica repararon el motor del automóvil en el taller.,plurales,GPT-3.5_CaDi
+Cuando la alumna solicite la devolución de la matrícula se tomarán medidas,Cuando se solicite la devolución de la matrícula se tomarán medidas,dificultades_variadas,neutral_es
+Los administrativos se encargan de la tramitación de documentos.,El personal de administración se encarga de la tramitación de documentos.,plurales,GPT-3.5_CaDi
+"Trascurrido este tiempo , los limpiadores retirará todas las infraestructuras","Trascurrido este tiempo , el personal de limpieza retirará todas las infraestructuras",dificultades_variadas,neutral_es
+Los cuidadores brindaron apoyo emocional a los pacientes enfermos.,El equipo que desempeña las tareas de cuidado brindaron apoyo emocional a los pacientes enfermos.,plural_complejo,GPT-3.5_fs_multiplication
+Los indígenas viven en condiciones precarias.,Las personas indígenas viven en condiciones precarias.,terminologia,GPT-3.5_fewshot
+Las ciudadanas Adriana Khan y María Khan participaron en la manifestación,Las ciudadanas Adriana Khan y María Khan participaron en la manifestación,nombres_propios,GPT-3.5_fewshot
+Los juristas de reconocido prestigio Carmen López y Jaime Aguirre,"Carmen López y Jaime Aguirre, juristas de reconocido prestigio",parafrasis,guía_CCGG
+Los tasadores evaluaron el valor de la propiedad con precisión.,Quienes tasan evaluaron el valor de la propiedad con precisión.,plurales,GPT-3.5_CaDi
+Los deportes populares de los españoles son muy emocionantes,Los deportes populares españoles son muy emocionantes,culturas,GPT-3.5_fewshot
+Los secretarios del comité elaboraron el acta de la reunión.,La Secretaría del comité elaboró el acta de la reunión.,plurales,GPT-3.5_fewshot
+Los nadadores compitieron en la piscina por el primer puesto.,Nadadoras y nadadores compitieron en la piscina por el primer puesto.,plurales,GPT-3.5_CaDi
+Aún no existe información suficiente de por qué ciertas personas tienen reacciones alérgicas,Aún no existe información suficiente de por qué ciertas personas tienen reacciones alérgicas,no_cambia,neutral_es
+Los patronos dirigieron la empresa con sabiduría y visión.,La patronal dirigía la empresa con sabiduría y visión.,plurales,GPT-3.5_CaDi
+El tribunal estará compuesto por profesionales con acreditación,El tribunal estará compuesto por profesionales con acreditación,no_cambia,neutral_es
+"No obstante, los aspirantes deberán comunicar inmediatamente a la Comisión cualquier modificación sustancial de la información del estadio.","No obstante , los y las aspirantes deberán comunicar inmediatamente a la Comisión cualquier modificación sustancial de la información del estadio.",dificultades_variadas,neutral_es
+Los conductores de autobuses transportan pasajeros a diario.,Los y las conductores de autobuses transportan pasajeros a diario.,plural_complejo,GPT-3.5_fewshot
+La vicedirectora Pérez supervisó la implementación de nuevas políticas.,La vicedirectora Pérez supervisó la implementación de nuevas políticas.,nombres_propios,GPT-3.5_fewshot
+Los médicos están investigando una cura para esta enfermedad.,Las médicas y médicos investigan una cura para esta enfermedad.,plural_complejo,GPT-3.5_fs_multiplication
+Nosotros abogamos por la inclusión de la perspectiva de género en la Universidad,Abogamos por la inclusión de la perspectiva de género en la Universidad,dificultades_variadas,neutral_es
+"A nivel corporativo , realizamos entrevistas con los encargados de la preparación y aplicación de los procedimientos","A nivel corporativo , realizamos entrevistas con el personal responsable de la preparación y aplicación de los procedimientos",dificultades_variadas,neutral_es
+Cuando La beneficiaria de una asignación por invalidez fallezca sin que se reúnan las condiciones se aplicará el protocolo,Cuando La persona beneficiaria de una asignación por invalidez fallezca sin que se reúnan las condiciones se aplicará el protocolo,dificultades_variadas,neutral_es
+Los prologuistas redactaron el prólogo del libro con maestría.,Quienes prologan redactaron el prólogo del libro con maestría.,plurales,GPT-3.5_CaDi
+Con experiencia previa la novia de María era una fantástica diseñador gráfico,Con experiencia previa la novia de María era una fantástica diseñadora gráfica,feminizar_profesiones,human_combinatory
+El vicedirector Pérez supervisó la implementación de nuevas políticas.,El vicedirector Pérez supervisó la implementación de nuevas políticas.,nombres_propios,GPT-3.5_fewshot
+El presidente inauguró un nuevo hospital en la región,La presidencia inauguró un nuevo hospital en la región,plural_neutro,GPT-3.5_fewshot
+Los traductores facilitaron la comunicación entre personas de diferentes idiomas.,La traducción facilitó la comunicación entre personas de diferentes idiomas.,plurales,GPT-3.5_CaDi
+Los filósofos reflexionan sobre el sentido de la existencia.,Las personas filósofas reflexionan sobre el sentido de la existencia.,plurales,GPT-3.5_CaDi
+"Según han denunciado muchos expertos, la contaminación del aire está alcanzando niveles críticos.","Según han denunciado gran cantidad de especialistas, la contaminación del aire está alcanzando niveles críticos.",parafrasis,GPT-3.5_fewshot
+Los empleados prepararon informes detallados sobre el proyecto.,Se prepararon informes detallados sobre el proyecto.,omision,GPT-3.5_fewshot
+Los gerentes supervisaron el funcionamiento de la empresa.,La gerencia supervisó el funcionamiento de la empresa.,plurales,GPT-3.5_CaDi
+El vicedirector colaboró estrechamente con el personal docente,La vicedirección colaboró estrechamente con el personal docente,plural_neutro,GPT-3.5_fewshot
+Los feligreses asistieron a la misa dominical en la iglesia.,La feligresía asistió a la misa dominical en la iglesia.,plurales,GPT-3.5_CaDi
+La coja tuvo problemas para caminar sobre el terreno irregular.,La persona con movilidad reducida tuvo problemas para caminar sobre el terreno irregular.,terminologia,GPT-3.5_fewshot
+Los trabajadores y sus esposas están presentes.,"Las trabajadoras, los trabajadores y sus compañeros/compañeras están presentes.",plural_complejo,guia_INAES
+Con estas charlas se mejorará su capacidad para atender rápidamente a pacientes extranjeros,Con estas charlas se mejorará su capacidad para atender rápidamente a pacientes extranjeros,no_cambia,neutral_es
+Aunque soy capaz de leer solo sigo escuchando pódcasts,Aunque soy capaz de leer por mi cuenta sigo escuchando pódcasts,dificultades_variadas,neutral_es
+Los artistas exhiben sus obras en la galería.,Los y las artistas exhiben sus obras en la galería.,plural_complejo,GPT-3.5_fs_multiplication
+El tiempo que esté aquí no debe tomar vitaminas que no le sean suministradas por los especialistas en este caso,El tiempo que esté aquí no debe tomar vitaminas que no le sean suministradas por el personal experto en este caso,dificultades_variadas,neutral_es
+Estamos decididos a promover la igualdad de oportunidades en nuestra comunidad.,Tenemos la determinación de promover la igualdad de oportunidades en nuestra comunidad.,otros,GPT-3.5_fewshot
+Tenemos que solventar los problemas que tiene el personal promotor contratando personal con un perfil diferente para compensar las carencias,Tenemos que solventar los problemas que tiene el personal promotor contratando personal con un perfil diferente para compensar las carencias,no_cambia,neutral_es
+"En consecuencia , la cuantía económica estipulada se entregará totalmente a las candidatas seleccionadas tras acabar la prueba","En consecuencia , la cuantía económica estipulada se entregará totalmente a las candidaturas seleccionadas tras acabar la prueba",dificultades_variadas,neutral_es
+"Sin embargo , la información exacta sobre lo que se le paga a una persona liberada sindical no debe revelarse sin autorización de la interesada","Sin embargo , la información exacta sobre lo que se le paga a una persona liberada sindical no debe revelarse sin autorización de la persona interesada",dificultades_variadas,neutral_es
+las limpiadoras,el personal de limpieza,plural_complejo,guia_CHRYSALLIS
+Los inventores patentaron su última invención en el campo de la tecnología.,Quienes inventan patentaron su última invención en el campo de la tecnología.,plurales,GPT-3.5_CaDi
+Las ciudadanas Wei Zhang y Lila Wang protestaron por mejores servicios públicos,Las ciudadanas Wei Zhang y Lila Wang protestaron por mejores servicios públicos,nombres_propios,GPT-3.5_fewshot
+Tenemos que solventar los problemas que tiene el promotor añadiendo personal con un perfil diferente para compensar las carencias,Tenemos que solventar los problemas que tiene el equipo promotor añadiendo personal con un perfil diferente para compensar las carencias,plural_complejo,neutral_es
+"En el aula, los profesores enseñan a los estudiantes.","En el aula, el profesorado enseña al alumnado.",plural_complejo,GPT-3.5_fs_multiplication
+"La de Madrid organizada por los directores del departamento de finanzas , tendrá lugar el 5 de septiembre","La de Madrid organizada por el equipo directivo del departamento de finanzas , tendrá lugar el 5 de septiembre",dificultades_variadas,neutral_es
+Los mendigos dependen de la caridad pública para sobrevivir en la calle.,Las personas en situación de calle dependen de la caridad pública para sobrevivir.,terminologia,GPT-3.5_fs_multiplication
+Los músicos ensayan sus piezas antes del concierto.,Las y los músicos ensayan sus piezas antes del concierto.,plural_complejo,GPT-3.5_fewshot
+Aún no existe una compresión cabal de por qué algunos tienen reacciones alérgicas,Aún no existe una compresión cabal de por qué ciertas personas tienen reacciones alérgicas,dificultades_variadas,neutral_es
+"quienes necesiten ayuda , que acudan al mostrador","quienes necesiten ayuda , que acudan al mostrador",no_cambia,neutral_es
+"la que quiera hablar , que lo haga ahora o que calle para siempre","quien quiera hablar , que lo haga ahora o que calle para siempre",dificultades_variadas,neutral_es
+Los demás están invitados a la fiesta de cumpleaños de Juan.,La demás gente está invitada a la fiesta de cumpleaños de Juan.,plurales,GPT-3.5_CaDi
+El director del centro comunica,La dirección del centro comunica,plural_neutro,guia_MX
+Los profesores evaluaron el desempeño de los estudiantes,El profesorado evaluó el desempeño de los estudiantes,plural_neutro,GPT-3.5_fewshot
+Aún no existe información suficiente de por qué ciertas personas tienen intolerancias alimenticias,Aún no existe información suficiente de por qué ciertas personas tienen intolerancias alimenticias,no_cambia,neutral_es
+Dichos responsables supervisarán,Tales responsables supervisarán,persona_generica,guía_CCGG
+Asistieron dos mil participantes,Asistieron dos mil participantes,no_cambia,neutral_es
+Los holandeses son expertos en el manejo del agua.,La población holandesa es experta en el manejo del agua.,culturas,GPT-3.5_fewshot
+"los organizadores de los programas tenían en cuenta que , para ser efectivos , era necesario acompañar la participación","el equipo organizador de los programas tenía en cuenta que , para tener efectividad , era necesario acompañar la participación",dificultades_variadas,neutral_es
+Es importante que la información sea correcta para que el alumno sea capaz de entender correctamente los detalles,Es importante que la información sea correcta para que el alumnado sea capaz de entender correctamente los detalles,dificultades_variadas,neutral_es
+Los discapacitados necesitan apoyo para desarrollar su potencial.,Las personas con discapacidad necesitan apoyo para desarrollar su potencial.,terminologia,GPT-3.5_fewshot
+Un nuevo parque público fue inaugurado por el intendente.,Un nuevo parque público fue inaugurado por la intendencia.,plural_neutro,GPT-3.5_fs_multiplication
+Como todos vemos...,Como vemos…,omision,guia_CHRYSALLIS
+Con gran dedicación  Lucía era una fantástica contable aunque le hubiera gustado ser gerente y colabora con organizaciones ambientales en la protección del medio ambiente.,Con gran dedicación  Lucía era una fantástica contadora aunque le hubiera gustado ser gerente y colabora con organizaciones ambientales en la protección del medio ambiente.,feminizar_profesiones,human_combinatory
+Es importante solventar los problemas que presenta el promotor añadiendo personal cualificado con un perfil diferente para compensar los fallos,Es importante solventar los problemas que presenta el personal promotor añadiendo personal cualificado con un perfil diferente para compensar los fallos,plural_complejo,neutral_es
+La asesora brindó asesoramiento financiero a pequeñas empresas.,El consejo asesor brindó asesoramiento financiero a pequeñas empresas.,plural_neutro,GPT-3.5_fewshot
+"Como consecuencia , la cuantía económica estipulada se entregará totalmente a las candidaturas seleccionadas tras acabar la prueba","Como consecuencia , la cuantía económica estipulada se entregará totalmente a las candidaturas seleccionadas tras acabar la prueba",no_cambia,neutral_es
+"Estas iniciativas se desarrollan en todo el espectro de interacciones entre los funcionarios y el público , ya sea en el gobierno , admisión escolar entre otros","Estas iniciativas se desarrollan en todo el espectro de interacciones entre el funcionariado y el público , ya sea en el gobierno , admisión escolar entre otros",dificultades_variadas,neutral_es
+"Si el usuario realiza la reclamación en los primeros cinco días , recibirá la respuesta en un plazo de un mes.","Si se realiza la reclamación en los primeros cinco días , recibirá la respuesta en un plazo de un mes.",dificultades_variadas,neutral_es
+Los obreros construyeron el nuevo edificio en tiempo récord.,El personal obrero construyó el nuevo edificio en tiempo récord.,plurales,GPT-3.5_CaDi
+"Esta importante tarea , en la que participaron todos los investigadores del departamento , ha arrojado varios resultados negativos","Esta importante tarea , en la que participó todo el personal investigador del departamento , ha arrojado varios resultados negativos",dificultades_variadas,neutral_es
+Los jefes Ahmed Mahmoud y Mohamed Ali coordinaron la implementación del nuevo sistema,Los jefes Ahmed Mahmoud y Mohamed Ali coordinaron la implementación del nuevo sistema,nombres_propios,GPT-3.5_fewshot
+los trabajadores de la empresa,quienes trabajan en la empresa,dificultades_variadas,neutral_es
+El equipo de profesores colaboró estrechamente para ofrecer una educación de calidad.,El equipo docente colaboró estrechamente para ofrecer una educación de calidad.,plurales,GPT-3.5_fs_multiplication
+Los legisladores Manuel Sánchez y Francisco Gutiérrez aprobaron nuevas leyes de medio ambiente,Los legisladores Manuel Sánchez y Francisco Gutiérrez aprobaron nuevas leyes de medio ambiente,nombres_propios,GPT-3.5_fewshot
+Todos deben enviar su solicitud al Rectorado,Es indispensable enviar su solicitud al Rectorado,dificultades_variadas,neutral_es
+Los organizadores Miguel Torres y Francisco Sánchez coordinaron la logística del evento,Los organizadores Miguel Torres y Francisco Sánchez coordinaron la logística del evento,nombres_propios,GPT-3.5_fewshot
+Las consejeras Juana Pérez y Daniela Martínez brindaron orientación a los empleados,Las consejeras Juana Pérez y Daniela Martínez brindaron orientación a los empleados,nombres_propios,GPT-3.5_fewshot
+la autora de este escrito es Virginia Wolf,la autora de este escrito es Virginia Wolf,no_cambia,neutral_es
+la novia de mi tía Isabel era una escritor buenísima y practica yoga para relajarse y mantenerse en forma.,la novia de mi tía Isabel era una escritora buenísima y practica yoga para relajarse y mantenerse en forma.,feminizar_profesiones,human_combinatory
+Los gitanos enfrentan discriminación étnica en algunos países.,Las personas gitanas enfrentan discriminación étnica en algunos países.,terminologia,GPT-3.5_fewshot
+Los capacitadores imparten conocimientos y habilidades en cursos de formación.,El equipo de capacitación imparte conocimientos y habilidades en cursos de formación.,plurales,GPT-3.5_CaDi
+Los detectives investigan el crimen para resolver el caso.,Las y los detectives investigan el crimen para resolver el caso.,plurales,GPT-3.5_CaDi
+Las consejeras Sofía García y Juana Martínez ofrecieron asesoramiento a las estudiantes,Las consejeras Sofía García y Juana Martínez ofrecieron asesoramiento a las estudiantes,nombres_propios,GPT-3.5_fewshot
+Los maestros organizan actividades educativas para los estudiantes.,El equipo educativo organiza actividades para los estudiantes.,plural_complejo,GPT-3.5_fewshot
+Los guías condujeron a los turistas por el sendero de la montaña.,El servicio de guía condujo a los turistas por el sendero de la montaña.,plurales,GPT-3.5_CaDi
+Ante este suceso se debe pedir consejo a los accionistas,Ante este suceso se debe pedir consejo al accionariado,dificultades_variadas,neutral_es
+Hubo participación de los jóvenes en actividades deportivas.,Hubo participación de la juventud en actividades deportivas.,plural_neutro,GPT-3.5_fs_multiplication
+"De acuerdo con las informaciones anteriores , los alumnos se han quejado de la actitud de los profesores en las calificaciones. Los representantes estudiantiles son los alumnos Juanju y Javi.","De acuerdo con las informaciones anteriores , el alumnado se ha quejado de la actitud de el profesorado en las calificaciones. Los representantes estudiantiles son los alumnos Juanju y Javi.",dificultades_variadas,neutral_es
+Se contó con la presencia de unos dos mil asistentes,Se contó con la presencia de aproximadamente dos mil asistentes,dificultades_variadas,neutral_es
+Los senadores Li Wang y Miguel Torres aprobaron el tratado internacional,Los senadores Li Wang y Miguel Torres aprobaron el tratado internacional,nombres_propios,GPT-3.5_fewshot
+Los maestros organizan actividades educativas para los estudiantes.,Los maestros y las maestras organizan actividades educativas para los estudiantes.,plural_complejo,GPT-3.5_fewshot
+El presidente de la cámara dio inicio a la sesión legislativa.,La Presidencia de la cámara dio inicio a la sesión legislativa.,plurales,GPT-3.5_fewshot
+Los costeños comen mucho pescado,En la costa se come mucho pescado.,culturas,guia_MX
+las profesoras,el profesorado,dificultades_variadas,neutral_es
+las trabajadoras de la empresa,el personal de la empresa,dificultades_variadas,neutral_es
+Los deportistas entrenan duro para competir en los Juegos Olímpicos.,Las y los deportistas entrenan duro para competir en los Juegos Olímpicos.,plurales,GPT-3.5_CaDi
+Los empleados cuentan con este beneficio disponible.,Las empleadas y los empleados cuentan con este beneficio disponible.,plural_complejo,guia_TAI
+La propuesta fue evaluada por el comité de expertos antes de ser aprobada.,La propuesta fue evaluada por el comité de especialistas antes de ser aprobada.,plurales,GPT-3.5_CaDi
+Los científicos políticos analizan el sistema gubernamental.,El equipo de ciencia política analiza el sistema gubernamental.,plural_complejo,GPT-3.5_fewshot
+Los participantes de la conferencia y sus parejas disfrutaron de la cena.,Las personas que participaron de la conferencia y sus parejas disfrutaron de la cena.,plural_neutro,GPT-3.5_fs_multiplication
+El documento se dirigía a los voluntarios y explicaba sus deberes y obligaciones,El documento se dirigía al voluntariado y explicaba sus deberes y obligaciones,dificultades_variadas,neutral_es
+El consumidor estará más seguro si comprueba el precinto del envase,Usted sentirá mayor seguridad al comprobar el precinto del envase,omision,guia_MX
+Podrán presentar su candidatura los accionistas que lo deseen,Podrá presentar su candidatura cualquier accionista que lo desee,parafrasis,GPT-3.5_fs_multiplication
+La coja necesitaba ayuda para movilizarse debido a su dificultad para caminar.,La mujer con movilidad reducida necesitaba ayuda para movilizarse debido a su dificultad para caminar.,terminologia,GPT-3.5_fs_multiplication
+Está dirigido a los estudiantes de último semestre,Está dirigido a estudiantes de último semestre,dificultades_variadas,neutral_es
+el estudiante tendrá derecho a revisar su examen.,cada estudiante tendrá derecho a revisar su examen.,dificultades_variadas,neutral_es
+Se espera que los miembros del equipo colaboren estrechamente en el proyecto.,Se espera que cada miembro del equipo colabore estrechamente en el proyecto.,parafrasis,GPT-3.5_fewshot
+Desde el inicio de su carrera  la mujer de Lorena era una fantástica veterinario aunque desde hace poco es diseñador gráfico y visita museos y exposiciones de arte.,Desde el inicio de su carrera  la mujer de Lorena era una fantástica veterinaria aunque desde hace poco es diseñadora gráfica y visita museos y exposiciones de arte.,feminizar_profesiones,human_combinatory
+Los funcionarios gestionaron trámites administrativos,El funcionariado gestionó trámites administrativos,plural_neutro,GPT-3.5_fewshot
+La gastronomía y el folclore de los andaluces son famosos en todo el país,La gastronomía y el folclore andaluz son famosos en todo el país,culturas,GPT-3.5_fewshot
+Los drogadictos luchan contra la adicción.,Las personas con problemas de adicción luchan contra la adicción.,terminologia,GPT-3.5_fewshot
+"Esta tarea crucial , en la que participaron todos los investigadores de la Comisión , ha arrojado varios resultados negativos","Esta tarea crucial , en la que participó todo el personal investigador de la Comisión , ha arrojado varios resultados negativos",dificultades_variadas,neutral_es
+Los tutores brindaron apoyo académico a los estudiantes.,La tutoría brindó apoyo académico a los estudiantes.,plurales,GPT-3.5_CaDi
+Aún no se han finalizado estudios determinantes del motivo por el cual algunos tienen intolerancias alimenticias,Aún no se han finalizado estudios determinantes del motivo por el cual ciertas personas tienen intolerancias alimenticias,dificultades_variadas,neutral_es
+Estas tazas son el resultado de un gran trabajo de los artesanos,Estas tazas son el resultado de un gran trabajo de artesanía,dificultades_variadas,neutral_es
+Los atletas están entrenando duro para la próxima competición.,El equipo deportivo está entrenando duro para la próxima competición.,plural_complejo,GPT-3.5_fs_multiplication
+Los fabricantes están innovando en el sector tecnológico.,Las y los fabricantes están innovando en el sector tecnológico.,plurales,GPT-3.5_CaDi
+En su puesto de trabajo  la madre de mi hermana solía trabajar de cantante y dijo que quería ser chef,En su puesto de trabajo  la madre de mi hermana solía trabajar de cantante y dijo que quería ser chef,feminizar_profesiones,human_combinatory
+Los evaluadores analizan el desempeño de los empleados.,Quienes evalúan analizan el desempeño de los empleados.,plurales,GPT-3.5_CaDi
+Desde el amanecer  la novia de Paula era una consultor bastante buena,Desde el amanecer  la novia de Paula era una consultora bastante buena,feminizar_profesiones,human_combinatory
+Los chefs preparan platos gourmet en el restaurante.,El equipo de cocina prepara platos gourmet en el restaurante.,plural_complejo,GPT-3.5_fewshot
+Se espera que los ciudadanos respeten las normas de convivencia en la comunidad.,Se espera que la ciudadanía respete las normas de convivencia en la comunidad.,dificultades_variadas,GPT-3.5_fewshot
+Con estas charlas se mejorará su capacidad para atender amablemente a los pacientes extranjeros,Con estas charlas se mejorará su capacidad para atender amablemente a pacientes extranjeros,dificultades_variadas,neutral_es
+Los negociantes cerraron un importante trato comercial.,Quienes negocian cerraron un importante trato comercial.,plurales,GPT-3.5_CaDi
+Los dobles realizan las escenas de riesgo en las películas.,Las y los dobles realizan las escenas de riesgo en las películas.,plurales,GPT-3.5_CaDi
+Los mandatarios tomaron decisiones importantes para el país.,Mandatarias y mandatarios tomaron decisiones importantes para el país.,plurales,GPT-3.5_CaDi
+El personal intermediador de la negociación se ocupará también de saber si el local tiene las deudas saldadas y si no hay problemas legales pendientes,El personal intermediador de la negociación se ocupará también de saber si el local tiene las deudas saldadas y si no hay problemas legales pendientes,no_cambia,neutral_es
+Los clientes pueden dejar sus comentarios en nuestro libro de quejas.,Se espera que la clientela esté satisfecha con nuestro servicio.,plural_complejo,GPT-3.5_fs_multiplication
+Participaron aproximadamente ciento cincuenta participantes,Participaron aproximadamente ciento cincuenta participantes,no_cambia,neutral_es
+Damos la bienvenida a todos los que accedan a nuestra web buscando información sobre nuestra institución,Damos la bienvenida a quienes accedan a nuestra web buscando información sobre nuestra institución,dificultades_variadas,neutral_es
+"Estas iniciativas se desarrollan en todo el espectro de interacciones entre los funcionarios y el público , ya sea en el gobierno , salud entre otros","Estas iniciativas se desarrollan en todo el espectro de interacciones entre el personal funcionario y el público , ya sea en el gobierno , salud entre otros",dificultades_variadas,neutral_es
+Se asesora a los estudiantes con discapacidad,Se asesora a estudiantes con discapacidad,dificultades_variadas,neutral_es
+Los profesores preparan clases para sus alumnos.,El personal docente prepara clases para los estudiantes.,plural_complejo,GPT-3.5_fewshot
+Natalia trabaja de médico y se reúne con colegas para jugar al ajedrez.,Natalia trabaja de médica y se reúne con colegas para jugar al ajedrez.,feminizar_profesiones,human_combinatory
+Un perfil de múltiples artistas que todos los que hablamos la lengua de Cervantes seguimos reconociendo como propio e inalienable,Un perfil de múltiples artistas que quienes hablamos la lengua de Cervantes seguimos reconociendo como propio e inalienable,dificultades_variadas,neutral_es
+Todos están invitados a participar en la reunión de la junta directiva.,Todas y todos están invitados a participar en la reunión de la junta directiva.,plurales,GPT-3.5_CaDi
+"La de Barcelona , organizada por los directores del Campeonato de Europa de Atletismo , tendrá lugar el 5 de septiembre","La de Barcelona , organizada por el equipo directivo del Campeonato de Europa de Atletismo , tendrá lugar el 5 de septiembre",dificultades_variadas,neutral_es
+La coordinación del evento estuvo a cargo de los coordinadores.,La coordinación del evento estuvo a cargo de las personas coordinadoras.,plural_neutro,GPT-3.5_fs_multiplication
+Los coordinadores se encargan de organizar las actividades del equipo.,La coordinación se encarga de organizar las actividades del equipo.,plural_neutro,GPT-3.5_fs_multiplication
+Los ancianos necesitan cuidados especiales.,Las personas de la tercera edad necesitan cuidados especiales.,terminologia,GPT-3.5_fewshot
+la empleada doméstica ha recogido la cocina,el servicio doméstico ha recogido la cocina,dificultades_variadas,neutral_es
+Se convocará a los profesores por orden alfabético.,Se convocará al profesorado por orden alfabético.,dificultades_variadas,neutral_es
+Bienvenido al espacio web del Servicio de Atención y Ayudas al Estudiante de la Universidad de Jaén. Desde aquí queremos poner a disposición de nuestros usuarios un medio que facilite la información y comunicación entre ambos.,Bienvenidos al espacio web del Servicio de Atención y Ayudas a Estudiantes de la Universidad de Jaén. Desde aquí queremos poner a disposición de nuestros usuarios un medio que facilite la información y comunicación entre ambos.,dificultades_variadas,neutral_es
+Alguno ha terminado el trabajo,Alguien ha terminado el trabajo,dificultades_variadas,neutral_es
+La iniciativa tiene como objetivo llegar a los alumnos de último curso,La iniciativa tiene como objetivo llegar a estudiantes de último curso,dificultades_variadas,neutral_es
+Los declarantes testifican en el juicio sobre lo que presenciaron.,Quienes declaran testifican en el juicio sobre lo que presenciaron.,plurales,GPT-3.5_CaDi
+Los usuarios aprovecharon los servicios ofrecidos por la empresa.,Las personas usuarias aprovecharon los servicios ofrecidos por la empresa.,plurales,GPT-3.5_CaDi
+Se llama a los profesores por orden de entrega.,Se llama al profesorado por orden de entrega.,dificultades_variadas,neutral_es
+Los apoderados representan legalmente a otras personas.,Apoderadas y apoderados representan legalmente a otras personas.,plurales,GPT-3.5_CaDi
+los firmantes muestran su conformidad con el contrato,quienes firman muestran su conformidad con el contrato,dificultades_variadas,neutral_es
+Se comunica a los empleados que la oficina estará cerrada por mantenimiento.,Se comunica que la oficina estará cerrada por mantenimiento.,omision,GPT-3.5_fewshot
+Los miembros del club deportivo se preparan para el próximo torneo.,Miembros del club deportivo se preparan para el próximo torneo.,omision,GPT-3.5_fewshot
+Muchos son los expertos en la materia que han puesto de manifiesto que el teatro es un poderoso vector de transmisión del conocimiento.,Multitud de especialistas en la materia han puesto de manifiesto que el teatro es un poderoso vector de transmisión del conocimiento.,dificultades_variadas,neutral_es
+Los profesores trabajan en equipo,El profesorado trabaja en equipo,plural_neutro,GPT-3.5_fewshot
+Los internautas navegaron por internet en busca de información.,Las y los internautas navegaron por internet en busca de información.,plurales,GPT-3.5_CaDi
+Los inmigrantes y sus familias buscan una vida mejor en un país nuevo.,La población inmigrante busca una vida mejor en un país nuevo.,plurales,GPT-3.5_fewshot
+Estamos comprometidos con la mejora continua de nuestros productos y servicios.,Tenemos un compromiso con la mejora continua de nuestros productos y servicios.,otros,GPT-3.5_fewshot
+Los funcionarios trabajan para garantizar el funcionamiento del gobierno.,El funcionariado trabaja para garantizar el funcionamiento del gobierno.,plurales,GPT-3.5_fewshot
+Los residentes del barrio pueden colaborar en la decoración de las calles para las fiestas navideñas.,Quienes residan en el barrio pueden colaborar en la decoración de las calles para las fiestas navideñas.,dificultades_variadas,GPT-3.5_fewshot
+La traductora proporcionó interpretación simultánea durante la reunión internacional.,La traducción proporcionó interpretación simultánea durante la reunión internacional.,plural_neutro,GPT-3.5_fewshot
+Las ministras Mónica Khan y Wei Zhang anunciaron medidas para proteger el medio ambiente,Las ministras Mónica Khan y Wei Zhang anunciaron medidas para proteger el medio ambiente,nombres_propios,GPT-3.5_fewshot
